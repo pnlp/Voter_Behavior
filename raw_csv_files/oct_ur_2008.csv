@@ -1,0 +1,3112 @@
+county,oct_rate,state,year
+Autauga County,5.8,Alabama,2008
+Baldwin County,5.2,Alabama,2008
+Barbour County,9,Alabama,2008
+Bibb County,6.3,Alabama,2008
+Blount County,4.9,Alabama,2008
+Bullock County,13.2,Alabama,2008
+Butler County,9.4,Alabama,2008
+Calhoun County,6.9,Alabama,2008
+Chambers County,16.7,Alabama,2008
+Cherokee County,6.4,Alabama,2008
+Chilton County,5.7,Alabama,2008
+Choctaw County,8.5,Alabama,2008
+Clarke County,9.1,Alabama,2008
+Clay County,9.8,Alabama,2008
+Cleburne County,5.5,Alabama,2008
+Coffee County,5.3,Alabama,2008
+Colbert County,6.9,Alabama,2008
+Conecuh County,10.2,Alabama,2008
+Coosa County,9.2,Alabama,2008
+Covington County,6.7,Alabama,2008
+Crenshaw County,5.9,Alabama,2008
+Cullman County,5.5,Alabama,2008
+Dale County,6.1,Alabama,2008
+Dallas County,12.3,Alabama,2008
+Dekalb County,6.8,Alabama,2008
+Elmore County,6,Alabama,2008
+Escambia County,8.1,Alabama,2008
+Etowah County,6.6,Alabama,2008
+Fayette County,7.9,Alabama,2008
+Franklin County,8.6,Alabama,2008
+Geneva County,6.5,Alabama,2008
+Greene County,8,Alabama,2008
+Hale County,8,Alabama,2008
+Henry County,7,Alabama,2008
+Houston County,5.5,Alabama,2008
+Jackson County,7.2,Alabama,2008
+Jefferson County,6,Alabama,2008
+Lamar County,8.6,Alabama,2008
+Lauderdale County,5.8,Alabama,2008
+Lawrence County,6.8,Alabama,2008
+Lee County,5.5,Alabama,2008
+Limestone County,5.2,Alabama,2008
+Lowndes County,12.6,Alabama,2008
+Macon County,7.9,Alabama,2008
+Madison County,4.5,Alabama,2008
+Marengo County,7.9,Alabama,2008
+Marion County,10.7,Alabama,2008
+Marshall County,5.8,Alabama,2008
+Mobile County,6.3,Alabama,2008
+Monroe County,11.6,Alabama,2008
+Montgomery County,6.8,Alabama,2008
+Morgan County,5.5,Alabama,2008
+Perry County,11.3,Alabama,2008
+Pickens County,7.6,Alabama,2008
+Pike County,5.5,Alabama,2008
+Randolph County,9,Alabama,2008
+Russell County,10.2,Alabama,2008
+Saint Clair County,5.5,Alabama,2008
+Shelby County,4.1,Alabama,2008
+Sumter County,9.6,Alabama,2008
+Talladega County,8.6,Alabama,2008
+Tallapoosa County,8.1,Alabama,2008
+Tuscaloosa County,4.9,Alabama,2008
+Walker County,5.9,Alabama,2008
+Washington County,9.1,Alabama,2008
+Wilcox County,14.6,Alabama,2008
+Winston County,11.4,Alabama,2008
+Apache County,13.3,Arizona,2008
+Cochise County,6.4,Arizona,2008
+Coconino County,6,Arizona,2008
+Gila County,7.6,Arizona,2008
+Graham County,7.3,Arizona,2008
+Greenlee County,4.9,Arizona,2008
+La Paz County,9.4,Arizona,2008
+Maricopa County,6.4,Arizona,2008
+Mohave County,9,Arizona,2008
+Navajo County,11.6,Arizona,2008
+Pima County,6.7,Arizona,2008
+Pinal County,8.6,Arizona,2008
+Santa Cruz County,15.5,Arizona,2008
+Yavapai County,7.4,Arizona,2008
+Yuma County,21.5,Arizona,2008
+Arkansas County,9.8,Arkansas,2008
+Ashley County,7.3,Arkansas,2008
+Baxter County,5.7,Arkansas,2008
+Benton County,4.1,Arkansas,2008
+Boone County,4.9,Arkansas,2008
+Bradley County,8.4,Arkansas,2008
+Calhoun County,5.6,Arkansas,2008
+Carroll County,4,Arkansas,2008
+Chicot County,8,Arkansas,2008
+Clark County,6.2,Arkansas,2008
+Clay County,7.5,Arkansas,2008
+Cleburne County,5.3,Arkansas,2008
+Cleveland County,5.4,Arkansas,2008
+Columbia County,7.2,Arkansas,2008
+Conway County,5.6,Arkansas,2008
+Craighead County,4.6,Arkansas,2008
+Crawford County,4.9,Arkansas,2008
+Crittenden County,8.5,Arkansas,2008
+Cross County,6.4,Arkansas,2008
+Dallas County,6.7,Arkansas,2008
+Desha County,7.8,Arkansas,2008
+Drew County,8.2,Arkansas,2008
+Faulkner County,4.6,Arkansas,2008
+Franklin County,4.4,Arkansas,2008
+Fulton County,4.9,Arkansas,2008
+Garland County,5.8,Arkansas,2008
+Grant County,5,Arkansas,2008
+Greene County,6,Arkansas,2008
+Hempstead County,5.7,Arkansas,2008
+Hot Spring County,6.5,Arkansas,2008
+Howard County,5.8,Arkansas,2008
+Independence County,6.5,Arkansas,2008
+Izard County,6.6,Arkansas,2008
+Jackson County,6.9,Arkansas,2008
+Jefferson County,7.9,Arkansas,2008
+Johnson County,5.5,Arkansas,2008
+Lafayette County,6.7,Arkansas,2008
+Lawrence County,6.5,Arkansas,2008
+Lee County,7.3,Arkansas,2008
+Lincoln County,7.3,Arkansas,2008
+Little River County,4,Arkansas,2008
+Logan County,6.8,Arkansas,2008
+Lonoke County,4.6,Arkansas,2008
+Madison County,4.5,Arkansas,2008
+Marion County,5.6,Arkansas,2008
+Miller County,4,Arkansas,2008
+Mississippi County,7.9,Arkansas,2008
+Monroe County,6.3,Arkansas,2008
+Montgomery County,5.7,Arkansas,2008
+Nevada County,7.7,Arkansas,2008
+Newton County,5.5,Arkansas,2008
+Ouachita County,6.5,Arkansas,2008
+Perry County,5.1,Arkansas,2008
+Phillips County,6.5,Arkansas,2008
+Pike County,5.8,Arkansas,2008
+Poinsett County,5.8,Arkansas,2008
+Polk County,5.3,Arkansas,2008
+Pope County,4.6,Arkansas,2008
+Prairie County,5.6,Arkansas,2008
+Pulaski County,4.8,Arkansas,2008
+Randolph County,7.5,Arkansas,2008
+Saint Francis County,8.9,Arkansas,2008
+Saline County,4.6,Arkansas,2008
+Scott County,4.9,Arkansas,2008
+Searcy County,5,Arkansas,2008
+Sebastian County,5.1,Arkansas,2008
+Sevier County,4,Arkansas,2008
+Sharp County,7.1,Arkansas,2008
+Stone County,6.6,Arkansas,2008
+Union County,6.5,Arkansas,2008
+Van Buren County,8.4,Arkansas,2008
+Washington County,4.1,Arkansas,2008
+White County,5.3,Arkansas,2008
+Woodruff County,7.1,Arkansas,2008
+Yell County,4.4,Arkansas,2008
+Alameda County,7,California,2008
+Alpine County,11.1,California,2008
+Amador County,8.1,California,2008
+Butte County,8.6,California,2008
+Calaveras County,9.4,California,2008
+Colusa County,11.5,California,2008
+Contra Costa County,6.9,California,2008
+Del Norte County,8.9,California,2008
+El Dorado County,7.3,California,2008
+Fresno County,11.1,California,2008
+Glenn County,9.2,California,2008
+Humboldt County,7.3,California,2008
+Imperial County,26.3,California,2008
+Inyo County,6.9,California,2008
+Kern County,9.6,California,2008
+Kings County,10.6,California,2008
+Lake County,11.1,California,2008
+Lassen County,8.3,California,2008
+Los Angeles County,8.6,California,2008
+Madera County,9.3,California,2008
+Marin County,5,California,2008
+Mariposa County,7.5,California,2008
+Mendocino County,6.5,California,2008
+Merced County,11.5,California,2008
+Modoc County,8.5,California,2008
+Mono County,7.4,California,2008
+Monterey County,6.8,California,2008
+Napa County,5.2,California,2008
+Nevada County,7,California,2008
+Orange County,6,California,2008
+Placer County,7.2,California,2008
+Plumas County,9.2,California,2008
+Riverside County,9.9,California,2008
+Sacramento County,8.1,California,2008
+San Benito County,9,California,2008
+San Bernardino County,9.1,California,2008
+San Diego County,6.8,California,2008
+San Francisco County,5.8,California,2008
+San Joaquin County,10.8,California,2008
+San Luis Obispo County,6.1,California,2008
+San Mateo County,5.4,California,2008
+Santa Barbara County,5.8,California,2008
+Santa Clara County,6.7,California,2008
+Santa Cruz County,6.6,California,2008
+Shasta County,10,California,2008
+Sierra County,8.5,California,2008
+Siskiyou County,9,California,2008
+Solano County,7.5,California,2008
+Sonoma County,6.2,California,2008
+Stanislaus County,11.4,California,2008
+Sutter County,12,California,2008
+Tehama County,8.7,California,2008
+Trinity County,11.5,California,2008
+Tulare County,11.2,California,2008
+Tuolumne County,8.3,California,2008
+Ventura County,7,California,2008
+Yolo County,7.8,California,2008
+Yuba County,12.4,California,2008
+Adams County,5.6,Colorado,2008
+Alamosa County,4.8,Colorado,2008
+Arapahoe County,5.2,Colorado,2008
+Archuleta County,4.9,Colorado,2008
+Baca County,3,Colorado,2008
+Bent County,6.2,Colorado,2008
+Boulder County,4.3,Colorado,2008
+Broomfield County,4.7,Colorado,2008
+Chaffee County,4.7,Colorado,2008
+Cheyenne County,2.5,Colorado,2008
+Clear Creek County,4.7,Colorado,2008
+Conejos County,6,Colorado,2008
+Costilla County,6.1,Colorado,2008
+Crowley County,7.1,Colorado,2008
+Custer County,4.8,Colorado,2008
+Delta County,4.4,Colorado,2008
+Denver County,5.7,Colorado,2008
+Dolores County,6.8,Colorado,2008
+Douglas County,4.4,Colorado,2008
+Eagle County,4.2,Colorado,2008
+El Paso County,5.9,Colorado,2008
+Elbert County,5,Colorado,2008
+Fremont County,6.5,Colorado,2008
+Garfield County,3.2,Colorado,2008
+Gilpin County,4.3,Colorado,2008
+Grand County,4.4,Colorado,2008
+Gunnison County,3.9,Colorado,2008
+Hinsdale County,2.7,Colorado,2008
+Huerfano County,6,Colorado,2008
+Jackson County,2.8,Colorado,2008
+Jefferson County,4.9,Colorado,2008
+Kiowa County,2.9,Colorado,2008
+Kit Carson County,3.2,Colorado,2008
+La Plata County,3.5,Colorado,2008
+Lake County,5.3,Colorado,2008
+Larimer County,4.2,Colorado,2008
+Las Animas County,4.2,Colorado,2008
+Lincoln County,3.8,Colorado,2008
+Logan County,3.7,Colorado,2008
+Mesa County,3.8,Colorado,2008
+Mineral County,5.3,Colorado,2008
+Moffat County,3.5,Colorado,2008
+Montezuma County,5,Colorado,2008
+Montrose County,4.9,Colorado,2008
+Morgan County,3.9,Colorado,2008
+Otero County,5.3,Colorado,2008
+Ouray County,3.9,Colorado,2008
+Park County,4.9,Colorado,2008
+Phillips County,3.1,Colorado,2008
+Pitkin County,5.2,Colorado,2008
+Prowers County,4.4,Colorado,2008
+Pueblo County,6.3,Colorado,2008
+Rio Blanco County,2.6,Colorado,2008
+Rio Grande County,4.7,Colorado,2008
+Routt County,4.1,Colorado,2008
+Saguache County,6.3,Colorado,2008
+San Juan County,3.7,Colorado,2008
+San Miguel County,4.8,Colorado,2008
+Sedgwick County,2.8,Colorado,2008
+Summit County,5,Colorado,2008
+Teller County,5.5,Colorado,2008
+Washington County,3,Colorado,2008
+Weld County,5.3,Colorado,2008
+Yuma County,2.4,Colorado,2008
+Fairfield County,5.6,Connecticut,2008
+Hartford County,6.3,Connecticut,2008
+Litchfield County,5.3,Connecticut,2008
+Middlesex County,5,Connecticut,2008
+New Haven County,6.6,Connecticut,2008
+New London County,5.7,Connecticut,2008
+Tolland County,5,Connecticut,2008
+Windham County,6.7,Connecticut,2008
+Kent County,5.7,Delaware,2008
+New Castle County,5.8,Delaware,2008
+Sussex County,5.8,Delaware,2008
+Alachua County,4.9,Florida,2008
+Baker County,6.3,Florida,2008
+Bay County,6.4,Florida,2008
+Bradford County,5.5,Florida,2008
+Brevard County,7.8,Florida,2008
+Broward County,6.4,Florida,2008
+Calhoun County,5.6,Florida,2008
+Charlotte County,9.7,Florida,2008
+Citrus County,9.4,Florida,2008
+Clay County,6.1,Florida,2008
+Collier County,8.5,Florida,2008
+Columbia County,6.3,Florida,2008
+Desoto County,9.1,Florida,2008
+Dixie County,8.3,Florida,2008
+Duval County,7.1,Florida,2008
+Escambia County,6.9,Florida,2008
+Flagler County,10.9,Florida,2008
+Franklin County,5.2,Florida,2008
+Gadsden County,7.2,Florida,2008
+Gilchrist County,6.6,Florida,2008
+Glades County,8.6,Florida,2008
+Gulf County,7,Florida,2008
+Hamilton County,8.3,Florida,2008
+Hardee County,9.4,Florida,2008
+Hendry County,14.2,Florida,2008
+Hernando County,10.1,Florida,2008
+Highlands County,8.9,Florida,2008
+Hillsborough County,7.5,Florida,2008
+Holmes County,5.6,Florida,2008
+Indian River County,9.4,Florida,2008
+Jackson County,5.8,Florida,2008
+Jefferson County,5.9,Florida,2008
+Lafayette County,5.3,Florida,2008
+Lake County,7.7,Florida,2008
+Lee County,9.7,Florida,2008
+Leon County,5.1,Florida,2008
+Levy County,8,Florida,2008
+Liberty County,4.9,Florida,2008
+Madison County,7.8,Florida,2008
+Manatee County,8.4,Florida,2008
+Marion County,9.3,Florida,2008
+Martin County,8.4,Florida,2008
+Miami-Dade County,5.7,Florida,2008
+Monroe County,5.2,Florida,2008
+Nassau County,6.2,Florida,2008
+Okaloosa County,5.3,Florida,2008
+Okeechobee County,10.4,Florida,2008
+Orange County,7.1,Florida,2008
+Osceola County,7.8,Florida,2008
+Palm Beach County,7.9,Florida,2008
+Pasco County,8.7,Florida,2008
+Pinellas County,7.7,Florida,2008
+Polk County,8.2,Florida,2008
+Putnam County,8.7,Florida,2008
+Saint Johns County,5.9,Florida,2008
+Saint Lucie County,10.5,Florida,2008
+Santa Rosa County,6.4,Florida,2008
+Sarasota County,8.6,Florida,2008
+Seminole County,6.6,Florida,2008
+Sumter County,6.5,Florida,2008
+Suwannee County,7,Florida,2008
+Taylor County,7.6,Florida,2008
+Union County,5.2,Florida,2008
+Volusia County,7.7,Florida,2008
+Wakulla County,5.4,Florida,2008
+Walton County,5.2,Florida,2008
+Washington County,7.2,Florida,2008
+Appling County,7.8,Georgia,2008
+Atkinson County,11.4,Georgia,2008
+Bacon County,6.8,Georgia,2008
+Baker County,7.1,Georgia,2008
+Baldwin County,9.5,Georgia,2008
+Banks County,5.3,Georgia,2008
+Barrow County,7.3,Georgia,2008
+Bartow County,8.1,Georgia,2008
+Ben Hill County,11.9,Georgia,2008
+Berrien County,8,Georgia,2008
+Bibb County,7.4,Georgia,2008
+Bleckley County,8.8,Georgia,2008
+Brantley County,7.4,Georgia,2008
+Brooks County,6.4,Georgia,2008
+Bryan County,5.8,Georgia,2008
+Bulloch County,7.5,Georgia,2008
+Burke County,9,Georgia,2008
+Butts County,8.4,Georgia,2008
+Calhoun County,8.9,Georgia,2008
+Camden County,6.8,Georgia,2008
+Candler County,7.3,Georgia,2008
+Carroll County,7.5,Georgia,2008
+Catoosa County,5.3,Georgia,2008
+Charlton County,7.4,Georgia,2008
+Chatham County,6.5,Georgia,2008
+Chattahoochee County,15,Georgia,2008
+Chattooga County,9.2,Georgia,2008
+Cherokee County,6.3,Georgia,2008
+Clarke County,6.2,Georgia,2008
+Clay County,6.7,Georgia,2008
+Clayton County,8.5,Georgia,2008
+Clinch County,9.5,Georgia,2008
+Cobb County,6.5,Georgia,2008
+Coffee County,10,Georgia,2008
+Colquitt County,7.7,Georgia,2008
+Columbia County,5.4,Georgia,2008
+Cook County,8.5,Georgia,2008
+Coweta County,6.4,Georgia,2008
+Crawford County,6.6,Georgia,2008
+Crisp County,8.5,Georgia,2008
+Dade County,5.7,Georgia,2008
+Dawson County,6.8,Georgia,2008
+Decatur County,8.1,Georgia,2008
+Dekalb County,7.3,Georgia,2008
+Dodge County,9,Georgia,2008
+Dooly County,7.3,Georgia,2008
+Dougherty County,8,Georgia,2008
+Douglas County,7.3,Georgia,2008
+Early County,7.4,Georgia,2008
+Echols County,4.7,Georgia,2008
+Effingham County,5.6,Georgia,2008
+Elbert County,10.3,Georgia,2008
+Emanuel County,8.1,Georgia,2008
+Evans County,7.3,Georgia,2008
+Fannin County,7.1,Georgia,2008
+Fayette County,6.3,Georgia,2008
+Floyd County,7.6,Georgia,2008
+Forsyth County,5.6,Georgia,2008
+Franklin County,7.8,Georgia,2008
+Fulton County,7.4,Georgia,2008
+Gilmer County,6.7,Georgia,2008
+Glascock County,8,Georgia,2008
+Glynn County,6.1,Georgia,2008
+Gordon County,9,Georgia,2008
+Grady County,7,Georgia,2008
+Greene County,7.8,Georgia,2008
+Gwinnett County,6.5,Georgia,2008
+Habersham County,6.6,Georgia,2008
+Hall County,6.5,Georgia,2008
+Hancock County,16.9,Georgia,2008
+Haralson County,7.8,Georgia,2008
+Harris County,5.1,Georgia,2008
+Hart County,10.2,Georgia,2008
+Heard County,7.6,Georgia,2008
+Henry County,7,Georgia,2008
+Houston County,5.9,Georgia,2008
+Irwin County,10.2,Georgia,2008
+Jackson County,7.5,Georgia,2008
+Jasper County,9.2,Georgia,2008
+Jeff Davis County,11.4,Georgia,2008
+Jefferson County,11.4,Georgia,2008
+Jenkins County,14.5,Georgia,2008
+Johnson County,9.5,Georgia,2008
+Jones County,6.4,Georgia,2008
+Lamar County,9.2,Georgia,2008
+Lanier County,7.2,Georgia,2008
+Laurens County,8.8,Georgia,2008
+Lee County,5,Georgia,2008
+Liberty County,6.9,Georgia,2008
+Lincoln County,7.7,Georgia,2008
+Long County,5.1,Georgia,2008
+Lowndes County,6.3,Georgia,2008
+Lumpkin County,8.4,Georgia,2008
+Macon County,9.7,Georgia,2008
+Madison County,5.9,Georgia,2008
+Marion County,6.8,Georgia,2008
+McDuffie County,8.5,Georgia,2008
+McIntosh County,7.2,Georgia,2008
+Meriwether County,9.1,Georgia,2008
+Miller County,4.9,Georgia,2008
+Mitchell County,7.2,Georgia,2008
+Monroe County,6.1,Georgia,2008
+Montgomery County,8.2,Georgia,2008
+Morgan County,7,Georgia,2008
+Murray County,8.9,Georgia,2008
+Muscogee County,7,Georgia,2008
+Newton County,8.5,Georgia,2008
+Oconee County,4.5,Georgia,2008
+Oglethorpe County,6.5,Georgia,2008
+Paulding County,7,Georgia,2008
+Peach County,7.6,Georgia,2008
+Pickens County,7,Georgia,2008
+Pierce County,6.2,Georgia,2008
+Pike County,7.6,Georgia,2008
+Polk County,7.1,Georgia,2008
+Pulaski County,6.1,Georgia,2008
+Putnam County,9,Georgia,2008
+Quitman County,6.9,Georgia,2008
+Rabun County,7.2,Georgia,2008
+Randolph County,9.6,Georgia,2008
+Richmond County,8,Georgia,2008
+Rockdale County,7.9,Georgia,2008
+Schley County,7.6,Georgia,2008
+Screven County,9.2,Georgia,2008
+Seminole County,7.9,Georgia,2008
+Spalding County,9.2,Georgia,2008
+Stephens County,7.4,Georgia,2008
+Stewart County,8.2,Georgia,2008
+Sumter County,8.8,Georgia,2008
+Talbot County,7,Georgia,2008
+Taliaferro County,9.3,Georgia,2008
+Tattnall County,7.1,Georgia,2008
+Taylor County,8.3,Georgia,2008
+Telfair County,18.5,Georgia,2008
+Terrell County,7.5,Georgia,2008
+Thomas County,6.7,Georgia,2008
+Tift County,8.1,Georgia,2008
+Toombs County,7.7,Georgia,2008
+Towns County,6.6,Georgia,2008
+Treutlen County,9.3,Georgia,2008
+Troup County,9,Georgia,2008
+Turner County,7,Georgia,2008
+Twiggs County,8.3,Georgia,2008
+Union County,6.6,Georgia,2008
+Upson County,9,Georgia,2008
+Walker County,6.1,Georgia,2008
+Walton County,7.4,Georgia,2008
+Ware County,8.3,Georgia,2008
+Warren County,10.6,Georgia,2008
+Washington County,9.3,Georgia,2008
+Wayne County,9.3,Georgia,2008
+Webster County,5.5,Georgia,2008
+Wheeler County,9.5,Georgia,2008
+White County,6.4,Georgia,2008
+Whitfield County,9.3,Georgia,2008
+Wilcox County,9.3,Georgia,2008
+Wilkes County,9.7,Georgia,2008
+Wilkinson County,7.9,Georgia,2008
+Worth County,7.6,Georgia,2008
+Hawaii County,7.5,Hawaii,2008
+Honolulu County,4.4,Hawaii,2008
+Kauai County,6.4,Hawaii,2008
+Maui County,6.3,Hawaii,2008
+Ada County,5.7,Idaho,2008
+Adams County,7.9,Idaho,2008
+Bannock County,5.1,Idaho,2008
+Bear Lake County,3.7,Idaho,2008
+Benewah County,7.6,Idaho,2008
+Bingham County,3.9,Idaho,2008
+Blaine County,4.1,Idaho,2008
+Boise County,5.9,Idaho,2008
+Bonner County,6.9,Idaho,2008
+Bonneville County,3.8,Idaho,2008
+Boundary County,8.6,Idaho,2008
+Butte County,4.3,Idaho,2008
+Camas County,4.3,Idaho,2008
+Canyon County,7.3,Idaho,2008
+Caribou County,3.5,Idaho,2008
+Cassia County,3.8,Idaho,2008
+Clark County,2.7,Idaho,2008
+Clearwater County,9.4,Idaho,2008
+Custer County,4.3,Idaho,2008
+Elmore County,6.2,Idaho,2008
+Franklin County,3.2,Idaho,2008
+Fremont County,4.1,Idaho,2008
+Gem County,7.5,Idaho,2008
+Gooding County,3.2,Idaho,2008
+Idaho County,7.5,Idaho,2008
+Jefferson County,3.8,Idaho,2008
+Jerome County,4.4,Idaho,2008
+Kootenai County,6.1,Idaho,2008
+Latah County,4.1,Idaho,2008
+Lemhi County,6.3,Idaho,2008
+Lewis County,3.6,Idaho,2008
+Lincoln County,4.7,Idaho,2008
+Madison County,3.6,Idaho,2008
+Minidoka County,4.2,Idaho,2008
+Nez Perce County,5.1,Idaho,2008
+Oneida County,3.8,Idaho,2008
+Owyhee County,3.5,Idaho,2008
+Payette County,6,Idaho,2008
+Power County,4.6,Idaho,2008
+Shoshone County,9.3,Idaho,2008
+Teton County,3.3,Idaho,2008
+Twin Falls County,4.4,Idaho,2008
+Valley County,7.9,Idaho,2008
+Washington County,5.7,Idaho,2008
+Adams County,4.9,Illinois,2008
+Alexander County,8.7,Illinois,2008
+Bond County,7,Illinois,2008
+Boone County,8.8,Illinois,2008
+Brown County,3.8,Illinois,2008
+Bureau County,5.8,Illinois,2008
+Calhoun County,6.7,Illinois,2008
+Carroll County,5.8,Illinois,2008
+Cass County,5.1,Illinois,2008
+Champaign County,5.9,Illinois,2008
+Christian County,7.8,Illinois,2008
+Clark County,8.1,Illinois,2008
+Clay County,7.5,Illinois,2008
+Clinton County,6,Illinois,2008
+Coles County,6.2,Illinois,2008
+Cook County,6.6,Illinois,2008
+Crawford County,6.8,Illinois,2008
+Cumberland County,7.5,Illinois,2008
+De Witt County,5.9,Illinois,2008
+Dekalb County,5.5,Illinois,2008
+Douglas County,5.6,Illinois,2008
+Du Page County,5,Illinois,2008
+Edgar County,7.3,Illinois,2008
+Edwards County,6.1,Illinois,2008
+Effingham County,6,Illinois,2008
+Fayette County,7.9,Illinois,2008
+Ford County,5.3,Illinois,2008
+Franklin County,10.5,Illinois,2008
+Fulton County,6.4,Illinois,2008
+Gallatin County,8,Illinois,2008
+Greene County,5.8,Illinois,2008
+Grundy County,5.9,Illinois,2008
+Hamilton County,6.7,Illinois,2008
+Hancock County,6.8,Illinois,2008
+Hardin County,8.8,Illinois,2008
+Henderson County,6.7,Illinois,2008
+Henry County,6,Illinois,2008
+Iroquois County,6.2,Illinois,2008
+Jackson County,5.9,Illinois,2008
+Jasper County,7.2,Illinois,2008
+Jefferson County,6.4,Illinois,2008
+Jersey County,6.4,Illinois,2008
+Jo Daviess County,4.8,Illinois,2008
+Johnson County,8.2,Illinois,2008
+Kane County,5.7,Illinois,2008
+Kankakee County,8.7,Illinois,2008
+Kendall County,5.6,Illinois,2008
+Knox County,6.5,Illinois,2008
+La Salle County,7.4,Illinois,2008
+Lake County,6.6,Illinois,2008
+Lawrence County,8.7,Illinois,2008
+Lee County,6.6,Illinois,2008
+Livingston County,5.7,Illinois,2008
+Logan County,6.7,Illinois,2008
+Macon County,7,Illinois,2008
+Macoupin County,7,Illinois,2008
+Madison County,6.8,Illinois,2008
+Marion County,8.9,Illinois,2008
+Marshall County,5,Illinois,2008
+Mason County,7.1,Illinois,2008
+Massac County,6.8,Illinois,2008
+McDonough County,5.5,Illinois,2008
+McHenry County,5.6,Illinois,2008
+McLean County,5.1,Illinois,2008
+Menard County,5.5,Illinois,2008
+Mercer County,6.5,Illinois,2008
+Monroe County,5.2,Illinois,2008
+Montgomery County,9,Illinois,2008
+Morgan County,6.1,Illinois,2008
+Moultrie County,5.3,Illinois,2008
+Ogle County,7.1,Illinois,2008
+Peoria County,5.8,Illinois,2008
+Perry County,9.6,Illinois,2008
+Piatt County,5,Illinois,2008
+Pike County,5.4,Illinois,2008
+Pope County,8.1,Illinois,2008
+Pulaski County,9.2,Illinois,2008
+Putnam County,6.3,Illinois,2008
+Randolph County,6.6,Illinois,2008
+Richland County,7.2,Illinois,2008
+Rock Island County,5.7,Illinois,2008
+Saint Clair County,7.9,Illinois,2008
+Saline County,8.3,Illinois,2008
+Sangamon County,5.9,Illinois,2008
+Schuyler County,4.6,Illinois,2008
+Scott County,4.8,Illinois,2008
+Shelby County,7.2,Illinois,2008
+Stark County,5.8,Illinois,2008
+Stephenson County,6.6,Illinois,2008
+Tazewell County,5.1,Illinois,2008
+Union County,8.1,Illinois,2008
+Vermilion County,8.1,Illinois,2008
+Wabash County,8.2,Illinois,2008
+Warren County,5.8,Illinois,2008
+Washington County,5.8,Illinois,2008
+Wayne County,6,Illinois,2008
+White County,6.1,Illinois,2008
+Whiteside County,6.8,Illinois,2008
+Will County,5.8,Illinois,2008
+Williamson County,7.2,Illinois,2008
+Winnebago County,9,Illinois,2008
+Woodford County,4.2,Illinois,2008
+Adams County,7.6,Indiana,2008
+Allen County,6.1,Indiana,2008
+Bartholomew County,4.7,Indiana,2008
+Benton County,4.7,Indiana,2008
+Blackford County,7.8,Indiana,2008
+Boone County,4.4,Indiana,2008
+Brown County,5.4,Indiana,2008
+Carroll County,6,Indiana,2008
+Cass County,6.3,Indiana,2008
+Clark County,5.8,Indiana,2008
+Clay County,5.7,Indiana,2008
+Clinton County,5.1,Indiana,2008
+Crawford County,7,Indiana,2008
+Daviess County,4,Indiana,2008
+DeKalb County,8.1,Indiana,2008
+Dearborn County,5.7,Indiana,2008
+Decatur County,6.7,Indiana,2008
+Delaware County,6.7,Indiana,2008
+Dubois County,4,Indiana,2008
+Elkhart County,11.7,Indiana,2008
+Fayette County,11.1,Indiana,2008
+Floyd County,5.4,Indiana,2008
+Fountain County,5.8,Indiana,2008
+Franklin County,6,Indiana,2008
+Fulton County,6.5,Indiana,2008
+Gibson County,5.5,Indiana,2008
+Grant County,7.3,Indiana,2008
+Greene County,6,Indiana,2008
+Hamilton County,4.1,Indiana,2008
+Hancock County,5,Indiana,2008
+Harrison County,6,Indiana,2008
+Hendricks County,4.5,Indiana,2008
+Henry County,7.3,Indiana,2008
+Howard County,7.5,Indiana,2008
+Huntington County,6.8,Indiana,2008
+Jackson County,5.8,Indiana,2008
+Jasper County,5.1,Indiana,2008
+Jay County,6.1,Indiana,2008
+Jefferson County,6.3,Indiana,2008
+Jennings County,7.9,Indiana,2008
+Johnson County,5,Indiana,2008
+Knox County,5.4,Indiana,2008
+Kosciusko County,7.6,Indiana,2008
+LaGrange County,11.1,Indiana,2008
+LaPorte County,6.2,Indiana,2008
+Lake County,6.2,Indiana,2008
+Lawrence County,9.5,Indiana,2008
+Madison County,6.8,Indiana,2008
+Marion County,6,Indiana,2008
+Marshall County,8.3,Indiana,2008
+Martin County,4.9,Indiana,2008
+Miami County,7.9,Indiana,2008
+Monroe County,4.7,Indiana,2008
+Montgomery County,5,Indiana,2008
+Morgan County,6,Indiana,2008
+Newton County,5.4,Indiana,2008
+Noble County,9.9,Indiana,2008
+Ohio County,6.4,Indiana,2008
+Orange County,6.4,Indiana,2008
+Owen County,6.7,Indiana,2008
+Parke County,5.8,Indiana,2008
+Perry County,5.1,Indiana,2008
+Pike County,5.8,Indiana,2008
+Porter County,4.6,Indiana,2008
+Posey County,4.9,Indiana,2008
+Pulaski County,5.7,Indiana,2008
+Putnam County,5.8,Indiana,2008
+Randolph County,6.6,Indiana,2008
+Ripley County,5.7,Indiana,2008
+Rush County,7,Indiana,2008
+Saint Joseph County,7.5,Indiana,2008
+Scott County,6.7,Indiana,2008
+Shelby County,6.3,Indiana,2008
+Spencer County,5,Indiana,2008
+Starke County,7.7,Indiana,2008
+Steuben County,7.9,Indiana,2008
+Sullivan County,6.8,Indiana,2008
+Switzerland County,4.9,Indiana,2008
+Tippecanoe County,4.5,Indiana,2008
+Tipton County,7.3,Indiana,2008
+Union County,5.6,Indiana,2008
+Vanderburgh County,5.3,Indiana,2008
+Vermillion County,7.4,Indiana,2008
+Vigo County,6.2,Indiana,2008
+Wabash County,7.4,Indiana,2008
+Warren County,4.2,Indiana,2008
+Warrick County,4.8,Indiana,2008
+Washington County,6,Indiana,2008
+Wayne County,7.1,Indiana,2008
+Wells County,5.5,Indiana,2008
+White County,5.9,Indiana,2008
+Whitley County,6.4,Indiana,2008
+Adair County,3.3,Iowa,2008
+Adams County,3.8,Iowa,2008
+Allamakee County,6.6,Iowa,2008
+Appanoose County,4.7,Iowa,2008
+Audubon County,3.9,Iowa,2008
+Benton County,3.4,Iowa,2008
+Black Hawk County,4,Iowa,2008
+Boone County,3.6,Iowa,2008
+Bremer County,2.9,Iowa,2008
+Buchanan County,3.4,Iowa,2008
+Buena Vista County,3.5,Iowa,2008
+Butler County,3.9,Iowa,2008
+Calhoun County,3.3,Iowa,2008
+Carroll County,2.5,Iowa,2008
+Cass County,4.4,Iowa,2008
+Cedar County,3.3,Iowa,2008
+Cerro Gordo County,4.7,Iowa,2008
+Cherokee County,3,Iowa,2008
+Chickasaw County,4.8,Iowa,2008
+Clarke County,4.2,Iowa,2008
+Clay County,3.4,Iowa,2008
+Clayton County,4.5,Iowa,2008
+Clinton County,4,Iowa,2008
+Crawford County,2.9,Iowa,2008
+Dallas County,3.2,Iowa,2008
+Davis County,4.3,Iowa,2008
+Decatur County,3.4,Iowa,2008
+Delaware County,3.4,Iowa,2008
+Des Moines County,5.9,Iowa,2008
+Dickinson County,4,Iowa,2008
+Dubuque County,4,Iowa,2008
+Emmet County,3.5,Iowa,2008
+Fayette County,4.6,Iowa,2008
+Floyd County,6.3,Iowa,2008
+Franklin County,4,Iowa,2008
+Fremont County,4.4,Iowa,2008
+Greene County,3.7,Iowa,2008
+Grundy County,3.2,Iowa,2008
+Guthrie County,4.2,Iowa,2008
+Hamilton County,3.3,Iowa,2008
+Hancock County,7.3,Iowa,2008
+Hardin County,4,Iowa,2008
+Harrison County,4.2,Iowa,2008
+Henry County,5.3,Iowa,2008
+Howard County,4.3,Iowa,2008
+Humboldt County,3.1,Iowa,2008
+Ida County,3.2,Iowa,2008
+Iowa County,3.7,Iowa,2008
+Jackson County,4.4,Iowa,2008
+Jasper County,6.8,Iowa,2008
+Jefferson County,4.8,Iowa,2008
+Johnson County,3,Iowa,2008
+Jones County,3.5,Iowa,2008
+Keokuk County,4.1,Iowa,2008
+Kossuth County,4,Iowa,2008
+Lee County,6.3,Iowa,2008
+Linn County,3.9,Iowa,2008
+Louisa County,5.2,Iowa,2008
+Lucas County,3.9,Iowa,2008
+Lyon County,2.3,Iowa,2008
+Madison County,3.8,Iowa,2008
+Mahaska County,4.4,Iowa,2008
+Marion County,3.7,Iowa,2008
+Marshall County,4.9,Iowa,2008
+Mills County,3.4,Iowa,2008
+Mitchell County,4.3,Iowa,2008
+Monona County,4.4,Iowa,2008
+Monroe County,3.7,Iowa,2008
+Montgomery County,5.2,Iowa,2008
+Muscatine County,5,Iowa,2008
+O'Brien County,3,Iowa,2008
+Osceola County,3.1,Iowa,2008
+Page County,4.7,Iowa,2008
+Palo Alto County,5.9,Iowa,2008
+Plymouth County,3.1,Iowa,2008
+Pocahontas County,2.7,Iowa,2008
+Polk County,4,Iowa,2008
+Pottawattamie County,3.9,Iowa,2008
+Poweshiek County,3.7,Iowa,2008
+Ringgold County,3.8,Iowa,2008
+Sac County,3.1,Iowa,2008
+Scott County,4.3,Iowa,2008
+Shelby County,2.6,Iowa,2008
+Sioux County,2.3,Iowa,2008
+Story County,2.8,Iowa,2008
+Tama County,4.8,Iowa,2008
+Taylor County,3.7,Iowa,2008
+Union County,3.6,Iowa,2008
+Van Buren County,4.5,Iowa,2008
+Wapello County,5.1,Iowa,2008
+Warren County,3.7,Iowa,2008
+Washington County,3.7,Iowa,2008
+Wayne County,3.4,Iowa,2008
+Webster County,3.9,Iowa,2008
+Winnebago County,7.9,Iowa,2008
+Winneshiek County,3.7,Iowa,2008
+Woodbury County,3.6,Iowa,2008
+Worth County,5.6,Iowa,2008
+Wright County,3.9,Iowa,2008
+Allen County,4.7,Kansas,2008
+Anderson County,4.9,Kansas,2008
+Atchison County,4.8,Kansas,2008
+Barber County,3.3,Kansas,2008
+Barton County,3.5,Kansas,2008
+Bourbon County,4.7,Kansas,2008
+Brown County,4.5,Kansas,2008
+Butler County,4.5,Kansas,2008
+Chase County,4.6,Kansas,2008
+Chautauqua County,4.7,Kansas,2008
+Cherokee County,5.6,Kansas,2008
+Cheyenne County,3.2,Kansas,2008
+Clark County,3.1,Kansas,2008
+Clay County,3.1,Kansas,2008
+Cloud County,3.5,Kansas,2008
+Coffey County,4.6,Kansas,2008
+Comanche County,3.3,Kansas,2008
+Cowley County,4.6,Kansas,2008
+Crawford County,5.1,Kansas,2008
+Decatur County,3.4,Kansas,2008
+Dickinson County,3.7,Kansas,2008
+Doniphan County,6.5,Kansas,2008
+Douglas County,4.1,Kansas,2008
+Edwards County,2.8,Kansas,2008
+Elk County,5.4,Kansas,2008
+Ellis County,3.4,Kansas,2008
+Ellsworth County,3.2,Kansas,2008
+Finney County,3.5,Kansas,2008
+Ford County,3,Kansas,2008
+Franklin County,5.2,Kansas,2008
+Geary County,4.7,Kansas,2008
+Gove County,2.9,Kansas,2008
+Graham County,3.4,Kansas,2008
+Grant County,3,Kansas,2008
+Gray County,2.5,Kansas,2008
+Greeley County,3.9,Kansas,2008
+Greenwood County,5.6,Kansas,2008
+Hamilton County,3.5,Kansas,2008
+Harper County,3.3,Kansas,2008
+Harvey County,4,Kansas,2008
+Haskell County,2.7,Kansas,2008
+Hodgeman County,3.5,Kansas,2008
+Jackson County,6.6,Kansas,2008
+Jefferson County,5.5,Kansas,2008
+Jewell County,3.3,Kansas,2008
+Johnson County,4.8,Kansas,2008
+Kearny County,3.4,Kansas,2008
+Kingman County,3.3,Kansas,2008
+Kiowa County,3.3,Kansas,2008
+Labette County,5.6,Kansas,2008
+Lane County,3.9,Kansas,2008
+Leavenworth County,5.9,Kansas,2008
+Lincoln County,3.8,Kansas,2008
+Linn County,6.4,Kansas,2008
+Logan County,2.7,Kansas,2008
+Lyon County,5.6,Kansas,2008
+Marion County,3.7,Kansas,2008
+Marshall County,3.8,Kansas,2008
+McPherson County,3.7,Kansas,2008
+Meade County,2.8,Kansas,2008
+Miami County,4.8,Kansas,2008
+Mitchell County,3.3,Kansas,2008
+Montgomery County,5.8,Kansas,2008
+Morris County,4.9,Kansas,2008
+Morton County,2.7,Kansas,2008
+Nemaha County,3.3,Kansas,2008
+Neosho County,5.6,Kansas,2008
+Ness County,3.3,Kansas,2008
+Norton County,3.3,Kansas,2008
+Osage County,6,Kansas,2008
+Osborne County,3.4,Kansas,2008
+Ottawa County,3.8,Kansas,2008
+Pawnee County,3.3,Kansas,2008
+Phillips County,4.7,Kansas,2008
+Pottawatomie County,3.4,Kansas,2008
+Pratt County,3.4,Kansas,2008
+Rawlins County,3.2,Kansas,2008
+Reno County,4.2,Kansas,2008
+Republic County,3.2,Kansas,2008
+Rice County,4,Kansas,2008
+Riley County,3.4,Kansas,2008
+Rooks County,5.3,Kansas,2008
+Rush County,4.3,Kansas,2008
+Russell County,3.7,Kansas,2008
+Saline County,3.8,Kansas,2008
+Scott County,2.8,Kansas,2008
+Sedgwick County,4.8,Kansas,2008
+Seward County,3.2,Kansas,2008
+Shawnee County,5.6,Kansas,2008
+Sheridan County,2.6,Kansas,2008
+Sherman County,3,Kansas,2008
+Smith County,4.4,Kansas,2008
+Stafford County,3.9,Kansas,2008
+Stanton County,3.1,Kansas,2008
+Stevens County,3.4,Kansas,2008
+Sumner County,4.9,Kansas,2008
+Thomas County,3.2,Kansas,2008
+Trego County,2.6,Kansas,2008
+Wabaunsee County,4.4,Kansas,2008
+Wallace County,5.1,Kansas,2008
+Washington County,3.5,Kansas,2008
+Wichita County,3.1,Kansas,2008
+Wilson County,6.3,Kansas,2008
+Woodson County,5.3,Kansas,2008
+Wyandotte County,8.5,Kansas,2008
+Adair County,6.4,Kentucky,2008
+Allen County,7.4,Kentucky,2008
+Anderson County,7.4,Kentucky,2008
+Ballard County,5.1,Kentucky,2008
+Barren County,6.1,Kentucky,2008
+Bath County,7.4,Kentucky,2008
+Bell County,8.6,Kentucky,2008
+Boone County,5.7,Kentucky,2008
+Bourbon County,6,Kentucky,2008
+Boyd County,5.5,Kentucky,2008
+Boyle County,6.6,Kentucky,2008
+Bracken County,7.1,Kentucky,2008
+Breathitt County,7,Kentucky,2008
+Breckinridge County,7,Kentucky,2008
+Bullitt County,7.6,Kentucky,2008
+Butler County,8,Kentucky,2008
+Caldwell County,6.4,Kentucky,2008
+Calloway County,5.7,Kentucky,2008
+Campbell County,6.2,Kentucky,2008
+Carlisle County,6,Kentucky,2008
+Carroll County,7.3,Kentucky,2008
+Carter County,7.1,Kentucky,2008
+Casey County,6,Kentucky,2008
+Christian County,8.1,Kentucky,2008
+Clark County,6.3,Kentucky,2008
+Clay County,10.2,Kentucky,2008
+Clinton County,6.5,Kentucky,2008
+Crittenden County,5.9,Kentucky,2008
+Cumberland County,7,Kentucky,2008
+Daviess County,6,Kentucky,2008
+Edmonson County,7.2,Kentucky,2008
+Elliott County,7.3,Kentucky,2008
+Estill County,7.4,Kentucky,2008
+Fayette County,4.9,Kentucky,2008
+Fleming County,6.3,Kentucky,2008
+Floyd County,6.3,Kentucky,2008
+Franklin County,6.2,Kentucky,2008
+Fulton County,7.8,Kentucky,2008
+Gallatin County,7.3,Kentucky,2008
+Garrard County,6.5,Kentucky,2008
+Grant County,6.5,Kentucky,2008
+Graves County,6.6,Kentucky,2008
+Grayson County,9.4,Kentucky,2008
+Green County,7.8,Kentucky,2008
+Greenup County,5.5,Kentucky,2008
+Hancock County,5.5,Kentucky,2008
+Hardin County,6.5,Kentucky,2008
+Harlan County,8.3,Kentucky,2008
+Harrison County,6.5,Kentucky,2008
+Hart County,7.3,Kentucky,2008
+Henderson County,6.5,Kentucky,2008
+Henry County,6.7,Kentucky,2008
+Hickman County,6.6,Kentucky,2008
+Hopkins County,6.9,Kentucky,2008
+Jackson County,10.5,Kentucky,2008
+Jefferson County,6.7,Kentucky,2008
+Jessamine County,5.6,Kentucky,2008
+Johnson County,6.4,Kentucky,2008
+Kenton County,6.1,Kentucky,2008
+Knott County,6.4,Kentucky,2008
+Knox County,7.6,Kentucky,2008
+Larue County,6.9,Kentucky,2008
+Laurel County,6.7,Kentucky,2008
+Lawrence County,7.4,Kentucky,2008
+Lee County,7.2,Kentucky,2008
+Leslie County,7.6,Kentucky,2008
+Letcher County,6.3,Kentucky,2008
+Lewis County,8.4,Kentucky,2008
+Lincoln County,7.5,Kentucky,2008
+Livingston County,4.9,Kentucky,2008
+Logan County,6.2,Kentucky,2008
+Lyon County,7.5,Kentucky,2008
+Madison County,5.4,Kentucky,2008
+Magoffin County,9.2,Kentucky,2008
+Marion County,6.8,Kentucky,2008
+Marshall County,6,Kentucky,2008
+Martin County,6.6,Kentucky,2008
+Mason County,5.9,Kentucky,2008
+McCracken County,5.8,Kentucky,2008
+McCreary County,9.4,Kentucky,2008
+McLean County,7.6,Kentucky,2008
+Meade County,8.2,Kentucky,2008
+Menifee County,7.8,Kentucky,2008
+Mercer County,6.2,Kentucky,2008
+Metcalfe County,6.9,Kentucky,2008
+Monroe County,8.4,Kentucky,2008
+Montgomery County,7,Kentucky,2008
+Morgan County,8.6,Kentucky,2008
+Muhlenberg County,7.8,Kentucky,2008
+Nelson County,7.7,Kentucky,2008
+Nicholas County,7.3,Kentucky,2008
+Ohio County,6.2,Kentucky,2008
+Oldham County,6.2,Kentucky,2008
+Owen County,6.1,Kentucky,2008
+Owsley County,7.1,Kentucky,2008
+Pendleton County,6.7,Kentucky,2008
+Perry County,6.8,Kentucky,2008
+Pike County,5.6,Kentucky,2008
+Powell County,8.5,Kentucky,2008
+Pulaski County,6.9,Kentucky,2008
+Robertson County,5.4,Kentucky,2008
+Rockcastle County,6.3,Kentucky,2008
+Rowan County,5.7,Kentucky,2008
+Russell County,8.8,Kentucky,2008
+Scott County,5.7,Kentucky,2008
+Shelby County,6,Kentucky,2008
+Simpson County,6.2,Kentucky,2008
+Spencer County,8.3,Kentucky,2008
+Taylor County,5.9,Kentucky,2008
+Todd County,6.5,Kentucky,2008
+Trigg County,7.5,Kentucky,2008
+Trimble County,7.5,Kentucky,2008
+Union County,6.2,Kentucky,2008
+Warren County,5.3,Kentucky,2008
+Washington County,8.1,Kentucky,2008
+Wayne County,8.6,Kentucky,2008
+Webster County,5.9,Kentucky,2008
+Whitley County,7.3,Kentucky,2008
+Wolfe County,9.1,Kentucky,2008
+Woodford County,5.3,Kentucky,2008
+Acadia Parish,4.5,Louisiana,2008
+Allen Parish,6.3,Louisiana,2008
+Ascension Parish,4.7,Louisiana,2008
+Assumption Parish,6.5,Louisiana,2008
+Avoyelles Parish,6.4,Louisiana,2008
+Beauregard Parish,5.9,Louisiana,2008
+Bienville Parish,6.9,Louisiana,2008
+Bossier Parish,5,Louisiana,2008
+Caddo Parish,6.3,Louisiana,2008
+Calcasieu Parish,4.8,Louisiana,2008
+Caldwell Parish,5.7,Louisiana,2008
+Cameron Parish,5.6,Louisiana,2008
+Catahoula Parish,6.8,Louisiana,2008
+Claiborne Parish,6.9,Louisiana,2008
+Concordia Parish,7.3,Louisiana,2008
+De Soto Parish,7,Louisiana,2008
+East Baton Rouge Parish,5.2,Louisiana,2008
+East Carroll Parish,10.6,Louisiana,2008
+East Feliciana Parish,5.8,Louisiana,2008
+Evangeline Parish,5.9,Louisiana,2008
+Franklin Parish,7.4,Louisiana,2008
+Grant Parish,5.6,Louisiana,2008
+Iberia Parish,4.7,Louisiana,2008
+Iberville Parish,7.4,Louisiana,2008
+Jackson Parish,5,Louisiana,2008
+Jefferson Davis Parish,4.3,Louisiana,2008
+Jefferson Parish,5.2,Louisiana,2008
+La Salle Parish,4.5,Louisiana,2008
+Lafayette Parish,3.8,Louisiana,2008
+Lafourche Parish,4,Louisiana,2008
+Lincoln Parish,5.8,Louisiana,2008
+Livingston Parish,4.7,Louisiana,2008
+Madison Parish,7.6,Louisiana,2008
+Morehouse Parish,8.7,Louisiana,2008
+Natchitoches Parish,6.3,Louisiana,2008
+Orleans Parish,7.3,Louisiana,2008
+Ouachita Parish,5.4,Louisiana,2008
+Plaquemines Parish,5.3,Louisiana,2008
+Pointe Coupee Parish,5.7,Louisiana,2008
+Rapides Parish,5.1,Louisiana,2008
+Red River Parish,8.5,Louisiana,2008
+Richland Parish,6.5,Louisiana,2008
+Sabine Parish,5.3,Louisiana,2008
+Saint Bernard Parish,5,Louisiana,2008
+Saint Charles Parish,5.5,Louisiana,2008
+Saint Helena Parish,9.1,Louisiana,2008
+Saint James Parish,7.8,Louisiana,2008
+Saint John the Baptist Parish,6.6,Louisiana,2008
+Saint Landry Parish,5.8,Louisiana,2008
+Saint Martin Parish,4.8,Louisiana,2008
+Saint Mary Parish,5.4,Louisiana,2008
+Saint Tammany Parish,4.5,Louisiana,2008
+Tangipahoa Parish,6.3,Louisiana,2008
+Tensas Parish,8.2,Louisiana,2008
+Terrebonne Parish,4.3,Louisiana,2008
+Union Parish,6,Louisiana,2008
+Vermilion Parish,4.8,Louisiana,2008
+Vernon Parish,5,Louisiana,2008
+Washington Parish,7.2,Louisiana,2008
+Webster Parish,6.4,Louisiana,2008
+West Baton Rouge Parish,5.6,Louisiana,2008
+West Carroll Parish,9.8,Louisiana,2008
+West Feliciana Parish,6.5,Louisiana,2008
+Winn Parish,6.2,Louisiana,2008
+Androscoggin County,5.7,Maine,2008
+Aroostook County,6.1,Maine,2008
+Cumberland County,4.4,Maine,2008
+Franklin County,7,Maine,2008
+Hancock County,4.8,Maine,2008
+Kennebec County,5.3,Maine,2008
+Knox County,5.2,Maine,2008
+Lincoln County,5,Maine,2008
+Oxford County,7.2,Maine,2008
+Penobscot County,5.7,Maine,2008
+Piscataquis County,8.4,Maine,2008
+Sagadahoc County,5,Maine,2008
+Somerset County,7.6,Maine,2008
+Waldo County,5.7,Maine,2008
+Washington County,7.3,Maine,2008
+York County,4.8,Maine,2008
+Allegany County,5.9,Maryland,2008
+Anne Arundel County,4.3,Maryland,2008
+Baltimore City,7.3,Maryland,2008
+Baltimore County,5,Maryland,2008
+Calvert County,3.8,Maryland,2008
+Caroline County,5.7,Maryland,2008
+Carroll County,4,Maryland,2008
+Cecil County,5.8,Maryland,2008
+Charles County,4.1,Maryland,2008
+Dorchester County,6.7,Maryland,2008
+Frederick County,4.1,Maryland,2008
+Garrett County,4.5,Maryland,2008
+Harford County,4.5,Maryland,2008
+Howard County,3.5,Maryland,2008
+Kent County,5.2,Maryland,2008
+Montgomery County,3.7,Maryland,2008
+Prince George's County,5,Maryland,2008
+Queen Anne's County,4.4,Maryland,2008
+Saint Mary's County,4,Maryland,2008
+Somerset County,6.9,Maryland,2008
+Talbot County,4.5,Maryland,2008
+Washington County,6.2,Maryland,2008
+Wicomico County,5.9,Maryland,2008
+Worcester County,7.3,Maryland,2008
+Barnstable County,5.7,Massachusetts,2008
+Berkshire County,5.1,Massachusetts,2008
+Bristol County,7.5,Massachusetts,2008
+Dukes County,3.7,Massachusetts,2008
+Essex County,6.3,Massachusetts,2008
+Franklin County,5,Massachusetts,2008
+Hampden County,6.8,Massachusetts,2008
+Hampshire County,4.4,Massachusetts,2008
+Middlesex County,4.7,Massachusetts,2008
+Nantucket County,3.2,Massachusetts,2008
+Norfolk County,5.1,Massachusetts,2008
+Plymouth County,5.9,Massachusetts,2008
+Suffolk County,5.8,Massachusetts,2008
+Worcester County,6.2,Massachusetts,2008
+Alcona County,10.1,Michigan,2008
+Alger County,8.1,Michigan,2008
+Allegan County,7.1,Michigan,2008
+Alpena County,7.9,Michigan,2008
+Antrim County,9.6,Michigan,2008
+Arenac County,9.6,Michigan,2008
+Baraga County,13,Michigan,2008
+Barry County,6.4,Michigan,2008
+Bay County,6.9,Michigan,2008
+Benzie County,7.7,Michigan,2008
+Berrien County,7.6,Michigan,2008
+Branch County,8.5,Michigan,2008
+Calhoun County,7.2,Michigan,2008
+Cass County,6.4,Michigan,2008
+Charlevoix County,10.2,Michigan,2008
+Cheboygan County,8,Michigan,2008
+Chippewa County,7.9,Michigan,2008
+Clare County,10.5,Michigan,2008
+Clinton County,5.4,Michigan,2008
+Crawford County,8.9,Michigan,2008
+Delta County,7.2,Michigan,2008
+Dickinson County,6.4,Michigan,2008
+Eaton County,5.9,Michigan,2008
+Emmet County,8.4,Michigan,2008
+Genesee County,9.5,Michigan,2008
+Gladwin County,10.7,Michigan,2008
+Gogebic County,8.3,Michigan,2008
+Grand Traverse County,6.8,Michigan,2008
+Gratiot County,8.6,Michigan,2008
+Hillsdale County,10.1,Michigan,2008
+Houghton County,6.2,Michigan,2008
+Huron County,7.6,Michigan,2008
+Ingham County,6.8,Michigan,2008
+Ionia County,8.2,Michigan,2008
+Iosco County,9.5,Michigan,2008
+Iron County,6.9,Michigan,2008
+Isabella County,5.5,Michigan,2008
+Jackson County,8.3,Michigan,2008
+Kalamazoo County,6.1,Michigan,2008
+Kalkaska County,8.4,Michigan,2008
+Kent County,6.7,Michigan,2008
+Keweenaw County,9.6,Michigan,2008
+Lake County,10.9,Michigan,2008
+Lapeer County,9.2,Michigan,2008
+Leelanau County,5.4,Michigan,2008
+Lenawee County,9.3,Michigan,2008
+Livingston County,6.6,Michigan,2008
+Luce County,8.6,Michigan,2008
+Mackinac County,6.3,Michigan,2008
+Macomb County,8.7,Michigan,2008
+Manistee County,7.9,Michigan,2008
+Marquette County,6,Michigan,2008
+Mason County,7.7,Michigan,2008
+Mecosta County,7.8,Michigan,2008
+Menominee County,5.8,Michigan,2008
+Midland County,5.8,Michigan,2008
+Missaukee County,10.2,Michigan,2008
+Monroe County,8.1,Michigan,2008
+Montcalm County,11,Michigan,2008
+Montmorency County,12.7,Michigan,2008
+Muskegon County,8.8,Michigan,2008
+Newaygo County,9,Michigan,2008
+Oakland County,7,Michigan,2008
+Oceana County,9.5,Michigan,2008
+Ogemaw County,8,Michigan,2008
+Ontonagon County,8.1,Michigan,2008
+Osceola County,9.5,Michigan,2008
+Oscoda County,12.7,Michigan,2008
+Otsego County,9.5,Michigan,2008
+Ottawa County,6.8,Michigan,2008
+Presque Isle County,10.4,Michigan,2008
+Roscommon County,9.9,Michigan,2008
+Saginaw County,7.9,Michigan,2008
+Saint Clair County,10.5,Michigan,2008
+Saint Joseph County,8.7,Michigan,2008
+Sanilac County,10.1,Michigan,2008
+Schoolcraft County,8.8,Michigan,2008
+Shiawassee County,9.3,Michigan,2008
+Tuscola County,9.4,Michigan,2008
+Van Buren County,7.5,Michigan,2008
+Washtenaw County,5.6,Michigan,2008
+Wayne County,9.9,Michigan,2008
+Wexford County,12.1,Michigan,2008
+Aitkin County,7.2,Minnesota,2008
+Anoka County,5.5,Minnesota,2008
+Becker County,5.6,Minnesota,2008
+Beltrami County,6.2,Minnesota,2008
+Benton County,5.2,Minnesota,2008
+Big Stone County,4.5,Minnesota,2008
+Blue Earth County,4.2,Minnesota,2008
+Brown County,4.8,Minnesota,2008
+Carlton County,6,Minnesota,2008
+Carver County,4.7,Minnesota,2008
+Cass County,7.2,Minnesota,2008
+Chippewa County,4.6,Minnesota,2008
+Chisago County,6,Minnesota,2008
+Clay County,3.1,Minnesota,2008
+Clearwater County,8.6,Minnesota,2008
+Cook County,4.9,Minnesota,2008
+Cottonwood County,4.5,Minnesota,2008
+Crow Wing County,6.1,Minnesota,2008
+Dakota County,4.9,Minnesota,2008
+Dodge County,4.4,Minnesota,2008
+Douglas County,4.3,Minnesota,2008
+Faribault County,6.2,Minnesota,2008
+Fillmore County,5.4,Minnesota,2008
+Freeborn County,5.6,Minnesota,2008
+Goodhue County,5.2,Minnesota,2008
+Grant County,5.5,Minnesota,2008
+Hennepin County,5.2,Minnesota,2008
+Houston County,4.8,Minnesota,2008
+Hubbard County,6.6,Minnesota,2008
+Isanti County,6.1,Minnesota,2008
+Itasca County,6.9,Minnesota,2008
+Jackson County,3.6,Minnesota,2008
+Kanabec County,8.6,Minnesota,2008
+Kandiyohi County,4.3,Minnesota,2008
+Kittson County,4.2,Minnesota,2008
+Koochiching County,7.5,Minnesota,2008
+Lac qui Parle County,4.2,Minnesota,2008
+Lake County,5.3,Minnesota,2008
+Lake of the Woods County,6,Minnesota,2008
+Le Sueur County,5.7,Minnesota,2008
+Lincoln County,3.8,Minnesota,2008
+Lyon County,3.7,Minnesota,2008
+Mahnomen County,6.2,Minnesota,2008
+Marshall County,5.1,Minnesota,2008
+Martin County,4.9,Minnesota,2008
+McLeod County,5.4,Minnesota,2008
+Meeker County,5.4,Minnesota,2008
+Mille Lacs County,7.8,Minnesota,2008
+Morrison County,6,Minnesota,2008
+Mower County,4.4,Minnesota,2008
+Murray County,3.2,Minnesota,2008
+Nicollet County,4.1,Minnesota,2008
+Nobles County,3.8,Minnesota,2008
+Norman County,4.4,Minnesota,2008
+Olmsted County,4.4,Minnesota,2008
+Otter Tail County,4.9,Minnesota,2008
+Pennington County,4.4,Minnesota,2008
+Pine County,7.2,Minnesota,2008
+Pipestone County,3.7,Minnesota,2008
+Polk County,3.8,Minnesota,2008
+Pope County,4.4,Minnesota,2008
+Ramsey County,5.5,Minnesota,2008
+Red Lake County,5.2,Minnesota,2008
+Redwood County,4.8,Minnesota,2008
+Renville County,4.5,Minnesota,2008
+Rice County,5.4,Minnesota,2008
+Rock County,3.7,Minnesota,2008
+Roseau County,3.4,Minnesota,2008
+Saint Louis County,6,Minnesota,2008
+Scott County,4.8,Minnesota,2008
+Sherburne County,5.5,Minnesota,2008
+Sibley County,5.2,Minnesota,2008
+Stearns County,5.1,Minnesota,2008
+Steele County,4.5,Minnesota,2008
+Stevens County,3.8,Minnesota,2008
+Swift County,5.1,Minnesota,2008
+Todd County,5.9,Minnesota,2008
+Traverse County,4.6,Minnesota,2008
+Wabasha County,4.5,Minnesota,2008
+Wadena County,6.4,Minnesota,2008
+Waseca County,4.8,Minnesota,2008
+Washington County,5,Minnesota,2008
+Watonwan County,6.2,Minnesota,2008
+Wilkin County,4.1,Minnesota,2008
+Winona County,4.5,Minnesota,2008
+Wright County,5.5,Minnesota,2008
+Yellow Medicine County,4.3,Minnesota,2008
+Adams County,6.6,Mississippi,2008
+Alcorn County,8.1,Mississippi,2008
+Amite County,6.9,Mississippi,2008
+Attala County,8.8,Mississippi,2008
+Benton County,12.4,Mississippi,2008
+Bolivar County,8,Mississippi,2008
+Calhoun County,8.6,Mississippi,2008
+Carroll County,7.3,Mississippi,2008
+Chickasaw County,11.7,Mississippi,2008
+Choctaw County,7.5,Mississippi,2008
+Claiborne County,9.4,Mississippi,2008
+Clarke County,7.5,Mississippi,2008
+Clay County,13.8,Mississippi,2008
+Coahoma County,8.3,Mississippi,2008
+Copiah County,7.6,Mississippi,2008
+Covington County,6.6,Mississippi,2008
+Desoto County,4.9,Mississippi,2008
+Forrest County,5.9,Mississippi,2008
+Franklin County,7.4,Mississippi,2008
+George County,7.6,Mississippi,2008
+Greene County,9.3,Mississippi,2008
+Grenada County,8.3,Mississippi,2008
+Hancock County,5.9,Mississippi,2008
+Harrison County,5.6,Mississippi,2008
+Hinds County,6.4,Mississippi,2008
+Holmes County,13.1,Mississippi,2008
+Humphreys County,8.4,Mississippi,2008
+Issaquena County,6.1,Mississippi,2008
+Itawamba County,9.2,Mississippi,2008
+Jackson County,6,Mississippi,2008
+Jasper County,7.6,Mississippi,2008
+Jefferson County,10.5,Mississippi,2008
+Jefferson Davis County,7.1,Mississippi,2008
+Jones County,5.9,Mississippi,2008
+Kemper County,9.3,Mississippi,2008
+Lafayette County,5.1,Mississippi,2008
+Lamar County,4.8,Mississippi,2008
+Lauderdale County,7.4,Mississippi,2008
+Lawrence County,8.2,Mississippi,2008
+Leake County,7,Mississippi,2008
+Lee County,7.4,Mississippi,2008
+Leflore County,8.6,Mississippi,2008
+Lincoln County,7.3,Mississippi,2008
+Lowndes County,7.6,Mississippi,2008
+Madison County,5.3,Mississippi,2008
+Marion County,7.2,Mississippi,2008
+Marshall County,7.5,Mississippi,2008
+Monroe County,10,Mississippi,2008
+Montgomery County,9.2,Mississippi,2008
+Neshoba County,5.7,Mississippi,2008
+Newton County,6.8,Mississippi,2008
+Noxubee County,16.2,Mississippi,2008
+Oktibbeha County,6.1,Mississippi,2008
+Panola County,8.7,Mississippi,2008
+Pearl River County,7,Mississippi,2008
+Perry County,8.3,Mississippi,2008
+Pike County,7.4,Mississippi,2008
+Pontotoc County,8,Mississippi,2008
+Prentiss County,7.9,Mississippi,2008
+Quitman County,8,Mississippi,2008
+Rankin County,4.3,Mississippi,2008
+Scott County,5.2,Mississippi,2008
+Sharkey County,6.8,Mississippi,2008
+Simpson County,6.4,Mississippi,2008
+Smith County,6.4,Mississippi,2008
+Stone County,5.6,Mississippi,2008
+Sunflower County,9.2,Mississippi,2008
+Tallahatchie County,7.6,Mississippi,2008
+Tate County,7,Mississippi,2008
+Tippah County,11.6,Mississippi,2008
+Tishomingo County,9.8,Mississippi,2008
+Tunica County,9.6,Mississippi,2008
+Union County,7.4,Mississippi,2008
+Walthall County,7.5,Mississippi,2008
+Warren County,6.1,Mississippi,2008
+Washington County,9,Mississippi,2008
+Wayne County,6.9,Mississippi,2008
+Webster County,9.4,Mississippi,2008
+Wilkinson County,7.2,Mississippi,2008
+Winston County,8.4,Mississippi,2008
+Yalobusha County,9.6,Mississippi,2008
+Yazoo County,8.8,Mississippi,2008
+Adair County,4.9,Missouri,2008
+Andrew County,4.7,Missouri,2008
+Atchison County,4.5,Missouri,2008
+Audrain County,6.4,Missouri,2008
+Barry County,5.7,Missouri,2008
+Barton County,9.5,Missouri,2008
+Bates County,7.3,Missouri,2008
+Benton County,6.8,Missouri,2008
+Bollinger County,6.4,Missouri,2008
+Boone County,4.4,Missouri,2008
+Buchanan County,5.5,Missouri,2008
+Butler County,6.4,Missouri,2008
+Caldwell County,7,Missouri,2008
+Callaway County,5.5,Missouri,2008
+Camden County,6.3,Missouri,2008
+Cape Girardeau County,5.3,Missouri,2008
+Carroll County,7.7,Missouri,2008
+Carter County,6.2,Missouri,2008
+Cass County,6.2,Missouri,2008
+Cedar County,6.5,Missouri,2008
+Chariton County,6.6,Missouri,2008
+Christian County,5.3,Missouri,2008
+Clark County,5.1,Missouri,2008
+Clay County,5.4,Missouri,2008
+Clinton County,5.8,Missouri,2008
+Cole County,4.6,Missouri,2008
+Cooper County,5.7,Missouri,2008
+Crawford County,7.7,Missouri,2008
+Dade County,6.6,Missouri,2008
+Dallas County,10.3,Missouri,2008
+Daviess County,5.3,Missouri,2008
+Dekalb County,6.1,Missouri,2008
+Dent County,7.7,Missouri,2008
+Douglas County,6.5,Missouri,2008
+Dunklin County,7.3,Missouri,2008
+Franklin County,7.7,Missouri,2008
+Gasconade County,6.9,Missouri,2008
+Gentry County,4.5,Missouri,2008
+Greene County,5.6,Missouri,2008
+Grundy County,5.5,Missouri,2008
+Harrison County,4.6,Missouri,2008
+Henry County,7,Missouri,2008
+Hickory County,10.8,Missouri,2008
+Holt County,4.4,Missouri,2008
+Howard County,6,Missouri,2008
+Howell County,5.9,Missouri,2008
+Iron County,5.4,Missouri,2008
+Jackson County,7.5,Missouri,2008
+Jasper County,5.4,Missouri,2008
+Jefferson County,6.8,Missouri,2008
+Johnson County,5.3,Missouri,2008
+Knox County,4.7,Missouri,2008
+Laclede County,8.3,Missouri,2008
+Lafayette County,6.1,Missouri,2008
+Lawrence County,5.1,Missouri,2008
+Lewis County,4.6,Missouri,2008
+Lincoln County,7.5,Missouri,2008
+Linn County,8.5,Missouri,2008
+Livingston County,5.6,Missouri,2008
+Macon County,6,Missouri,2008
+Madison County,5.9,Missouri,2008
+Maries County,6.3,Missouri,2008
+Marion County,5.6,Missouri,2008
+McDonald County,5,Missouri,2008
+Mercer County,4.5,Missouri,2008
+Miller County,6.6,Missouri,2008
+Mississippi County,7.4,Missouri,2008
+Moniteau County,5.5,Missouri,2008
+Monroe County,6.4,Missouri,2008
+Montgomery County,6.5,Missouri,2008
+Morgan County,7.8,Missouri,2008
+New Madrid County,6.3,Missouri,2008
+Newton County,5.6,Missouri,2008
+Nodaway County,3.9,Missouri,2008
+Oregon County,6.4,Missouri,2008
+Osage County,6.2,Missouri,2008
+Ozark County,5.9,Missouri,2008
+Pemiscot County,7.2,Missouri,2008
+Perry County,4.7,Missouri,2008
+Pettis County,5.9,Missouri,2008
+Phelps County,5.7,Missouri,2008
+Pike County,5.4,Missouri,2008
+Platte County,5.1,Missouri,2008
+Polk County,6.3,Missouri,2008
+Pulaski County,5.6,Missouri,2008
+Putnam County,5.1,Missouri,2008
+Ralls County,4.6,Missouri,2008
+Randolph County,5.8,Missouri,2008
+Ray County,6.6,Missouri,2008
+Reynolds County,6.4,Missouri,2008
+Ripley County,6.9,Missouri,2008
+Saint Charles County,5.7,Missouri,2008
+Saint Clair County,7.1,Missouri,2008
+Saint Francois County,7.3,Missouri,2008
+Saint Louis City,8.3,Missouri,2008
+Saint Louis County,6.4,Missouri,2008
+Sainte Genevieve County,6,Missouri,2008
+Saline County,5.5,Missouri,2008
+Schuyler County,5.6,Missouri,2008
+Scotland County,6.1,Missouri,2008
+Scott County,6.7,Missouri,2008
+Shannon County,8.3,Missouri,2008
+Shelby County,4.4,Missouri,2008
+Stoddard County,6.9,Missouri,2008
+Stone County,6.4,Missouri,2008
+Sullivan County,5.6,Missouri,2008
+Taney County,5.5,Missouri,2008
+Texas County,7.2,Missouri,2008
+Vernon County,6,Missouri,2008
+Warren County,7,Missouri,2008
+Washington County,10.2,Missouri,2008
+Wayne County,6.6,Missouri,2008
+Webster County,6.3,Missouri,2008
+Worth County,5.2,Missouri,2008
+Wright County,7.7,Missouri,2008
+Beaverhead County,4.4,Montana,2008
+Big Horn County,7.9,Montana,2008
+Blaine County,4,Montana,2008
+Broadwater County,5.3,Montana,2008
+Carbon County,4.3,Montana,2008
+Carter County,3.9,Montana,2008
+Cascade County,4.8,Montana,2008
+Chouteau County,3.8,Montana,2008
+Custer County,3.8,Montana,2008
+Daniels County,3.7,Montana,2008
+Dawson County,3.6,Montana,2008
+Deer Lodge County,6.6,Montana,2008
+Fallon County,2.4,Montana,2008
+Fergus County,4.2,Montana,2008
+Flathead County,7.4,Montana,2008
+Gallatin County,4.8,Montana,2008
+Garfield County,3.4,Montana,2008
+Glacier County,9.1,Montana,2008
+Golden Valley County,5.8,Montana,2008
+Granite County,6.3,Montana,2008
+Hill County,4.8,Montana,2008
+Jefferson County,4.7,Montana,2008
+Judith Basin County,3.8,Montana,2008
+Lake County,7.9,Montana,2008
+Lewis and Clark County,4.1,Montana,2008
+Liberty County,4.8,Montana,2008
+Lincoln County,9.2,Montana,2008
+Madison County,5.2,Montana,2008
+McCone County,2.6,Montana,2008
+Meagher County,6.5,Montana,2008
+Mineral County,7.5,Montana,2008
+Missoula County,4.9,Montana,2008
+Musselshell County,5.2,Montana,2008
+Park County,4.9,Montana,2008
+Petroleum County,4.1,Montana,2008
+Phillips County,4,Montana,2008
+Pondera County,5.3,Montana,2008
+Powder River County,3.3,Montana,2008
+Powell County,7.2,Montana,2008
+Prairie County,3.3,Montana,2008
+Ravalli County,7,Montana,2008
+Richland County,2.9,Montana,2008
+Roosevelt County,7.3,Montana,2008
+Rosebud County,5.8,Montana,2008
+Sanders County,9.7,Montana,2008
+Sheridan County,3.2,Montana,2008
+Silver Bow County,4.9,Montana,2008
+Stillwater County,4.5,Montana,2008
+Sweet Grass County,2.8,Montana,2008
+Teton County,4,Montana,2008
+Toole County,3.5,Montana,2008
+Treasure County,3.2,Montana,2008
+Valley County,3.9,Montana,2008
+Wheatland County,3.9,Montana,2008
+Wibaux County,3.9,Montana,2008
+Yellowstone County,3.9,Montana,2008
+Adams County,3.1,Nebraska,2008
+Antelope County,2.7,Nebraska,2008
+Arthur County,3.3,Nebraska,2008
+Banner County,2,Nebraska,2008
+Blaine County,4,Nebraska,2008
+Boone County,2.7,Nebraska,2008
+Box Butte County,3.6,Nebraska,2008
+Boyd County,2.7,Nebraska,2008
+Brown County,2.5,Nebraska,2008
+Buffalo County,2.5,Nebraska,2008
+Burt County,3.6,Nebraska,2008
+Butler County,2.8,Nebraska,2008
+Cass County,3.5,Nebraska,2008
+Cedar County,2.3,Nebraska,2008
+Chase County,2.7,Nebraska,2008
+Cherry County,2.3,Nebraska,2008
+Cheyenne County,2.5,Nebraska,2008
+Clay County,3.4,Nebraska,2008
+Colfax County,2.6,Nebraska,2008
+Cuming County,2.7,Nebraska,2008
+Custer County,2.4,Nebraska,2008
+Dakota County,3.6,Nebraska,2008
+Dawes County,2.7,Nebraska,2008
+Dawson County,3.4,Nebraska,2008
+Deuel County,2.7,Nebraska,2008
+Dixon County,3,Nebraska,2008
+Dodge County,3.4,Nebraska,2008
+Douglas County,3.6,Nebraska,2008
+Dundy County,3.3,Nebraska,2008
+Fillmore County,2.9,Nebraska,2008
+Franklin County,3.3,Nebraska,2008
+Frontier County,2.8,Nebraska,2008
+Furnas County,2.7,Nebraska,2008
+Gage County,5.5,Nebraska,2008
+Garden County,3.2,Nebraska,2008
+Garfield County,2,Nebraska,2008
+Gosper County,3.3,Nebraska,2008
+Grant County,3.3,Nebraska,2008
+Greeley County,2.6,Nebraska,2008
+Hall County,4.2,Nebraska,2008
+Hamilton County,2.9,Nebraska,2008
+Harlan County,3.6,Nebraska,2008
+Hayes County,3.6,Nebraska,2008
+Hitchcock County,3.1,Nebraska,2008
+Holt County,2.3,Nebraska,2008
+Hooker County,3.8,Nebraska,2008
+Howard County,4.7,Nebraska,2008
+Jefferson County,4.1,Nebraska,2008
+Johnson County,3.7,Nebraska,2008
+Kearney County,2.4,Nebraska,2008
+Keith County,2.9,Nebraska,2008
+Keya Paha County,4.2,Nebraska,2008
+Kimball County,3.7,Nebraska,2008
+Knox County,2.9,Nebraska,2008
+Lancaster County,3,Nebraska,2008
+Lincoln County,2.8,Nebraska,2008
+Logan County,1.7,Nebraska,2008
+Loup County,4.1,Nebraska,2008
+Madison County,3.2,Nebraska,2008
+McPherson County,1.6,Nebraska,2008
+Merrick County,3.7,Nebraska,2008
+Morrill County,3.5,Nebraska,2008
+Nance County,2.9,Nebraska,2008
+Nemaha County,4.1,Nebraska,2008
+Nuckolls County,3,Nebraska,2008
+Otoe County,3.6,Nebraska,2008
+Pawnee County,3.5,Nebraska,2008
+Perkins County,2.4,Nebraska,2008
+Phelps County,2.5,Nebraska,2008
+Pierce County,2.9,Nebraska,2008
+Platte County,2.8,Nebraska,2008
+Polk County,2.5,Nebraska,2008
+Red Willow County,2.8,Nebraska,2008
+Richardson County,4,Nebraska,2008
+Rock County,2.2,Nebraska,2008
+Saline County,3.3,Nebraska,2008
+Sarpy County,3.3,Nebraska,2008
+Saunders County,3.1,Nebraska,2008
+Scotts Bluff County,3.6,Nebraska,2008
+Seward County,3,Nebraska,2008
+Sheridan County,2.9,Nebraska,2008
+Sherman County,3,Nebraska,2008
+Sioux County,3,Nebraska,2008
+Stanton County,2.9,Nebraska,2008
+Thayer County,2.7,Nebraska,2008
+Thomas County,3.2,Nebraska,2008
+Thurston County,6.3,Nebraska,2008
+Valley County,2.4,Nebraska,2008
+Washington County,3,Nebraska,2008
+Wayne County,2.7,Nebraska,2008
+Webster County,3,Nebraska,2008
+Wheeler County,2.5,Nebraska,2008
+York County,3.3,Nebraska,2008
+Carson City,7.5,Nevada,2008
+Churchill County,6.5,Nevada,2008
+Clark County,7.7,Nevada,2008
+Douglas County,7.9,Nevada,2008
+Elko County,4.3,Nevada,2008
+Esmeralda County,5.2,Nevada,2008
+Eureka County,4.1,Nevada,2008
+Humboldt County,5.2,Nevada,2008
+Lander County,4,Nevada,2008
+Lincoln County,6.1,Nevada,2008
+Lyon County,10.3,Nevada,2008
+Mineral County,7.5,Nevada,2008
+Nye County,10.8,Nevada,2008
+Pershing County,7.2,Nevada,2008
+Storey County,7,Nevada,2008
+Washoe County,7.3,Nevada,2008
+White Pine County,4.8,Nevada,2008
+Belknap County,3.7,New Hampshire,2008
+Carroll County,3.2,New Hampshire,2008
+Cheshire County,3.3,New Hampshire,2008
+Coos County,4.2,New Hampshire,2008
+Grafton County,2.9,New Hampshire,2008
+Hillsborough County,3.6,New Hampshire,2008
+Merrimack County,3.3,New Hampshire,2008
+Rockingham County,3.9,New Hampshire,2008
+Strafford County,3.4,New Hampshire,2008
+Sullivan County,3.2,New Hampshire,2008
+Atlantic County,7.2,New Jersey,2008
+Bergen County,4.4,New Jersey,2008
+Burlington County,5.2,New Jersey,2008
+Camden County,6.2,New Jersey,2008
+Cape May County,7.5,New Jersey,2008
+Cumberland County,8,New Jersey,2008
+Essex County,6.7,New Jersey,2008
+Gloucester County,5.4,New Jersey,2008
+Hudson County,6.5,New Jersey,2008
+Hunterdon County,3.7,New Jersey,2008
+Mercer County,4.8,New Jersey,2008
+Middlesex County,5.1,New Jersey,2008
+Monmouth County,4.9,New Jersey,2008
+Morris County,4,New Jersey,2008
+Ocean County,6,New Jersey,2008
+Passaic County,6.7,New Jersey,2008
+Salem County,6.5,New Jersey,2008
+Somerset County,4.1,New Jersey,2008
+Sussex County,4.8,New Jersey,2008
+Union County,5.8,New Jersey,2008
+Warren County,5.2,New Jersey,2008
+Bernalillo County,4.8,New Mexico,2008
+Catron County,5.9,New Mexico,2008
+Chaves County,4.4,New Mexico,2008
+Cibola County,4.7,New Mexico,2008
+Colfax County,4.8,New Mexico,2008
+Curry County,3.2,New Mexico,2008
+Debaca County,4.2,New Mexico,2008
+Dona Ana County,4.7,New Mexico,2008
+Eddy County,3,New Mexico,2008
+Grant County,5.7,New Mexico,2008
+Guadalupe County,6,New Mexico,2008
+Harding County,2.5,New Mexico,2008
+Hidalgo County,3.6,New Mexico,2008
+Lea County,3,New Mexico,2008
+Lincoln County,3.8,New Mexico,2008
+Los Alamos County,3,New Mexico,2008
+Luna County,9,New Mexico,2008
+McKinley County,5.7,New Mexico,2008
+Mora County,8.4,New Mexico,2008
+Otero County,4.8,New Mexico,2008
+Quay County,4.7,New Mexico,2008
+Rio Arriba County,5.5,New Mexico,2008
+Roosevelt County,3,New Mexico,2008
+San Juan County,3.9,New Mexico,2008
+San Miguel County,4.8,New Mexico,2008
+Sandoval County,5.5,New Mexico,2008
+Santa Fe County,4.1,New Mexico,2008
+Sierra County,3.7,New Mexico,2008
+Socorro County,3.5,New Mexico,2008
+Taos County,5.8,New Mexico,2008
+Torrance County,5.6,New Mexico,2008
+Union County,3,New Mexico,2008
+Valencia County,5.6,New Mexico,2008
+Albany County,4.9,New York,2008
+Allegany County,5.5,New York,2008
+Bronx County,8.3,New York,2008
+Broome County,5.4,New York,2008
+Cattaraugus County,5.6,New York,2008
+Cayuga County,5.5,New York,2008
+Chautauqua County,5.3,New York,2008
+Chemung County,5.6,New York,2008
+Chenango County,5.9,New York,2008
+Clinton County,6.2,New York,2008
+Columbia County,4.7,New York,2008
+Cortland County,5.9,New York,2008
+Delaware County,5.6,New York,2008
+Dutchess County,5.2,New York,2008
+Erie County,5.4,New York,2008
+Essex County,6,New York,2008
+Franklin County,6.3,New York,2008
+Fulton County,6.6,New York,2008
+Genesee County,5,New York,2008
+Greene County,5.7,New York,2008
+Hamilton County,4.8,New York,2008
+Herkimer County,5.1,New York,2008
+Jefferson County,6.6,New York,2008
+Kings County,6.6,New York,2008
+Lewis County,5.8,New York,2008
+Livingston County,5.3,New York,2008
+Madison County,5.1,New York,2008
+Monroe County,5.5,New York,2008
+Montgomery County,6.2,New York,2008
+Nassau County,5,New York,2008
+New York County,5.4,New York,2008
+Niagara County,6,New York,2008
+Oneida County,5.2,New York,2008
+Onondaga County,5.4,New York,2008
+Ontario County,4.8,New York,2008
+Orange County,5.5,New York,2008
+Orleans County,6.1,New York,2008
+Oswego County,6.5,New York,2008
+Otsego County,5.2,New York,2008
+Putnam County,4.5,New York,2008
+Queens County,5.5,New York,2008
+Rensselaer County,4.9,New York,2008
+Richmond County,5.5,New York,2008
+Rockland County,5,New York,2008
+Saint Lawrence County,6.8,New York,2008
+Saratoga County,4.5,New York,2008
+Schenectady County,5,New York,2008
+Schoharie County,5.6,New York,2008
+Schuyler County,5.2,New York,2008
+Seneca County,4.9,New York,2008
+Steuben County,5.7,New York,2008
+Suffolk County,5.1,New York,2008
+Sullivan County,6.3,New York,2008
+Tioga County,4.8,New York,2008
+Tompkins County,4.2,New York,2008
+Ulster County,5.4,New York,2008
+Warren County,5.4,New York,2008
+Washington County,4.8,New York,2008
+Wayne County,5.5,New York,2008
+Westchester County,5,New York,2008
+Wyoming County,5.3,New York,2008
+Yates County,4.4,New York,2008
+Alamance County,6.3,North Carolina,2008
+Alexander County,6.9,North Carolina,2008
+Alleghany County,6.6,North Carolina,2008
+Anson County,9,North Carolina,2008
+Ashe County,6.6,North Carolina,2008
+Avery County,5.3,North Carolina,2008
+Beaufort County,6.7,North Carolina,2008
+Bertie County,7.2,North Carolina,2008
+Bladen County,7.5,North Carolina,2008
+Brunswick County,6.2,North Carolina,2008
+Buncombe County,4.5,North Carolina,2008
+Burke County,7.6,North Carolina,2008
+Cabarrus County,5.8,North Carolina,2008
+Caldwell County,7.7,North Carolina,2008
+Camden County,5.3,North Carolina,2008
+Carteret County,4.9,North Carolina,2008
+Caswell County,8.1,North Carolina,2008
+Catawba County,7.2,North Carolina,2008
+Chatham County,4.7,North Carolina,2008
+Cherokee County,9,North Carolina,2008
+Chowan County,8.5,North Carolina,2008
+Clay County,6.6,North Carolina,2008
+Cleveland County,8.7,North Carolina,2008
+Columbus County,7.5,North Carolina,2008
+Craven County,6,North Carolina,2008
+Cumberland County,5.8,North Carolina,2008
+Currituck County,4.3,North Carolina,2008
+Dare County,4.9,North Carolina,2008
+Davidson County,7.3,North Carolina,2008
+Davie County,6.4,North Carolina,2008
+Duplin County,5.7,North Carolina,2008
+Durham County,4.6,North Carolina,2008
+Edgecombe County,10.4,North Carolina,2008
+Forsyth County,5.6,North Carolina,2008
+Franklin County,6,North Carolina,2008
+Gaston County,8.2,North Carolina,2008
+Gates County,4.7,North Carolina,2008
+Graham County,10,North Carolina,2008
+Granville County,6.5,North Carolina,2008
+Greene County,6.1,North Carolina,2008
+Guilford County,5.9,North Carolina,2008
+Halifax County,9.1,North Carolina,2008
+Harnett County,6.6,North Carolina,2008
+Haywood County,5,North Carolina,2008
+Henderson County,4.6,North Carolina,2008
+Hertford County,5.9,North Carolina,2008
+Hoke County,5.6,North Carolina,2008
+Hyde County,4.3,North Carolina,2008
+Iredell County,6.6,North Carolina,2008
+Jackson County,4.1,North Carolina,2008
+Johnston County,5.7,North Carolina,2008
+Jones County,6.8,North Carolina,2008
+Lee County,7.8,North Carolina,2008
+Lenoir County,7.3,North Carolina,2008
+Lincoln County,7.8,North Carolina,2008
+Macon County,5.3,North Carolina,2008
+Madison County,5,North Carolina,2008
+Martin County,6.4,North Carolina,2008
+McDowell County,8.8,North Carolina,2008
+Mecklenburg County,6,North Carolina,2008
+Mitchell County,7,North Carolina,2008
+Montgomery County,7.7,North Carolina,2008
+Moore County,5.9,North Carolina,2008
+Nash County,7.3,North Carolina,2008
+New Hanover County,5.1,North Carolina,2008
+Northampton County,7.1,North Carolina,2008
+Onslow County,5.3,North Carolina,2008
+Orange County,3.7,North Carolina,2008
+Pamlico County,5.7,North Carolina,2008
+Pasquotank County,6.4,North Carolina,2008
+Pender County,6.3,North Carolina,2008
+Perquimans County,6.4,North Carolina,2008
+Person County,6.5,North Carolina,2008
+Pitt County,6.4,North Carolina,2008
+Polk County,5,North Carolina,2008
+Randolph County,6,North Carolina,2008
+Richmond County,9.3,North Carolina,2008
+Robeson County,7.6,North Carolina,2008
+Rockingham County,7.7,North Carolina,2008
+Rowan County,6.8,North Carolina,2008
+Rutherford County,8.4,North Carolina,2008
+Sampson County,5.2,North Carolina,2008
+Scotland County,10.7,North Carolina,2008
+Stanly County,6.7,North Carolina,2008
+Stokes County,5.9,North Carolina,2008
+Surry County,7.5,North Carolina,2008
+Swain County,5.6,North Carolina,2008
+Transylvania County,4.9,North Carolina,2008
+Tyrrell County,6.7,North Carolina,2008
+Union County,5.5,North Carolina,2008
+Vance County,8.8,North Carolina,2008
+Wake County,4.5,North Carolina,2008
+Warren County,8.4,North Carolina,2008
+Washington County,7.1,North Carolina,2008
+Watauga County,4,North Carolina,2008
+Wayne County,5.6,North Carolina,2008
+Wilkes County,7.1,North Carolina,2008
+Wilson County,7.4,North Carolina,2008
+Yadkin County,6,North Carolina,2008
+Yancey County,7,North Carolina,2008
+Adams County,2.1,North Dakota,2008
+Barnes County,2.1,North Dakota,2008
+Benson County,5.2,North Dakota,2008
+Billings County,1.5,North Dakota,2008
+Bottineau County,2.4,North Dakota,2008
+Bowman County,2,North Dakota,2008
+Burke County,1.9,North Dakota,2008
+Burleigh County,2.2,North Dakota,2008
+Cass County,2.3,North Dakota,2008
+Cavalier County,2.3,North Dakota,2008
+Dickey County,2.2,North Dakota,2008
+Divide County,3.1,North Dakota,2008
+Dunn County,2.4,North Dakota,2008
+Eddy County,3.2,North Dakota,2008
+Emmons County,3.5,North Dakota,2008
+Foster County,2.4,North Dakota,2008
+Golden Valley County,2.7,North Dakota,2008
+Grand Forks County,2.5,North Dakota,2008
+Grant County,2.6,North Dakota,2008
+Griggs County,2.4,North Dakota,2008
+Hettinger County,2.7,North Dakota,2008
+Kidder County,3,North Dakota,2008
+Lamoure County,2.4,North Dakota,2008
+Logan County,2.8,North Dakota,2008
+McHenry County,2.5,North Dakota,2008
+McIntosh County,2.6,North Dakota,2008
+McKenzie County,2.1,North Dakota,2008
+McLean County,3.1,North Dakota,2008
+Mercer County,2.7,North Dakota,2008
+Morton County,2.5,North Dakota,2008
+Mountrail County,3.5,North Dakota,2008
+Nelson County,2.2,North Dakota,2008
+Oliver County,2.6,North Dakota,2008
+Pembina County,3.1,North Dakota,2008
+Pierce County,3.3,North Dakota,2008
+Ramsey County,2.9,North Dakota,2008
+Ransom County,2.5,North Dakota,2008
+Renville County,1.9,North Dakota,2008
+Richland County,3.3,North Dakota,2008
+Rolette County,6.9,North Dakota,2008
+Sargent County,3,North Dakota,2008
+Sheridan County,2.7,North Dakota,2008
+Sioux County,4.2,North Dakota,2008
+Slope County,1.2,North Dakota,2008
+Stark County,1.8,North Dakota,2008
+Steele County,1.8,North Dakota,2008
+Stutsman County,2.3,North Dakota,2008
+Towner County,2.2,North Dakota,2008
+Traill County,2.5,North Dakota,2008
+Walsh County,3.1,North Dakota,2008
+Ward County,2.3,North Dakota,2008
+Wells County,2.6,North Dakota,2008
+Williams County,1.5,North Dakota,2008
+Adams County,8.9,Ohio,2008
+Allen County,7.5,Ohio,2008
+Ashland County,7.8,Ohio,2008
+Ashtabula County,8,Ohio,2008
+Athens County,6.1,Ohio,2008
+Auglaize County,5.7,Ohio,2008
+Belmont County,6.3,Ohio,2008
+Brown County,7.6,Ohio,2008
+Butler County,6.2,Ohio,2008
+Carroll County,7.4,Ohio,2008
+Champaign County,7.3,Ohio,2008
+Clark County,6.7,Ohio,2008
+Clermont County,6.1,Ohio,2008
+Clinton County,6.5,Ohio,2008
+Columbiana County,7.2,Ohio,2008
+Coshocton County,8.4,Ohio,2008
+Crawford County,9,Ohio,2008
+Cuyahoga County,6,Ohio,2008
+Darke County,6.1,Ohio,2008
+Defiance County,7.6,Ohio,2008
+Delaware County,4.9,Ohio,2008
+Erie County,7.1,Ohio,2008
+Fairfield County,5.8,Ohio,2008
+Fayette County,5.8,Ohio,2008
+Franklin County,5.8,Ohio,2008
+Fulton County,8.3,Ohio,2008
+Gallia County,6.1,Ohio,2008
+Geauga County,4.5,Ohio,2008
+Greene County,6.5,Ohio,2008
+Guernsey County,9.4,Ohio,2008
+Hamilton County,6,Ohio,2008
+Hancock County,6.4,Ohio,2008
+Hardin County,7.1,Ohio,2008
+Harrison County,7.4,Ohio,2008
+Henry County,7.4,Ohio,2008
+Highland County,7.6,Ohio,2008
+Hocking County,7.6,Ohio,2008
+Holmes County,5.2,Ohio,2008
+Huron County,9.4,Ohio,2008
+Jackson County,8.3,Ohio,2008
+Jefferson County,8.4,Ohio,2008
+Knox County,6.1,Ohio,2008
+Lake County,4.8,Ohio,2008
+Lawrence County,5.5,Ohio,2008
+Licking County,6.3,Ohio,2008
+Logan County,6.3,Ohio,2008
+Lorain County,5.7,Ohio,2008
+Lucas County,8.6,Ohio,2008
+Madison County,6.5,Ohio,2008
+Mahoning County,7.2,Ohio,2008
+Marion County,7.3,Ohio,2008
+Medina County,4.9,Ohio,2008
+Meigs County,9.3,Ohio,2008
+Mercer County,4.9,Ohio,2008
+Miami County,6.6,Ohio,2008
+Monroe County,8.4,Ohio,2008
+Montgomery County,7.8,Ohio,2008
+Morgan County,8.6,Ohio,2008
+Morrow County,7,Ohio,2008
+Muskingum County,8.2,Ohio,2008
+Noble County,8.9,Ohio,2008
+Ottawa County,8,Ohio,2008
+Paulding County,7.4,Ohio,2008
+Perry County,8.2,Ohio,2008
+Pickaway County,7.7,Ohio,2008
+Pike County,10,Ohio,2008
+Portage County,6,Ohio,2008
+Preble County,7,Ohio,2008
+Putnam County,5.5,Ohio,2008
+Richland County,7.3,Ohio,2008
+Ross County,8.5,Ohio,2008
+Sandusky County,7.2,Ohio,2008
+Scioto County,9,Ohio,2008
+Seneca County,7,Ohio,2008
+Shelby County,6.4,Ohio,2008
+Stark County,6.8,Ohio,2008
+Summit County,6.3,Ohio,2008
+Trumbull County,7.5,Ohio,2008
+Tuscarawas County,6.1,Ohio,2008
+Union County,5.3,Ohio,2008
+Van Wert County,9.7,Ohio,2008
+Vinton County,9.6,Ohio,2008
+Warren County,5.8,Ohio,2008
+Washington County,5.3,Ohio,2008
+Wayne County,5.9,Ohio,2008
+Williams County,8.6,Ohio,2008
+Wood County,7,Ohio,2008
+Wyandot County,7.8,Ohio,2008
+Adair County,4.7,Oklahoma,2008
+Alfalfa County,3.4,Oklahoma,2008
+Atoka County,5.1,Oklahoma,2008
+Beaver County,2.2,Oklahoma,2008
+Beckham County,2.5,Oklahoma,2008
+Blaine County,4,Oklahoma,2008
+Bryan County,3.7,Oklahoma,2008
+Caddo County,4.4,Oklahoma,2008
+Canadian County,3.7,Oklahoma,2008
+Carter County,3.4,Oklahoma,2008
+Cherokee County,4,Oklahoma,2008
+Choctaw County,5.3,Oklahoma,2008
+Cimarron County,3,Oklahoma,2008
+Cleveland County,4,Oklahoma,2008
+Coal County,4.9,Oklahoma,2008
+Comanche County,4.2,Oklahoma,2008
+Cotton County,3.4,Oklahoma,2008
+Craig County,3.9,Oklahoma,2008
+Creek County,4.8,Oklahoma,2008
+Custer County,2.8,Oklahoma,2008
+Delaware County,4.5,Oklahoma,2008
+Dewey County,2.6,Oklahoma,2008
+Ellis County,2.2,Oklahoma,2008
+Garfield County,3,Oklahoma,2008
+Garvin County,3.3,Oklahoma,2008
+Grady County,4.3,Oklahoma,2008
+Grant County,2.8,Oklahoma,2008
+Greer County,4.7,Oklahoma,2008
+Harmon County,3.4,Oklahoma,2008
+Harper County,2.3,Oklahoma,2008
+Haskell County,3.8,Oklahoma,2008
+Hughes County,5.3,Oklahoma,2008
+Jackson County,3.3,Oklahoma,2008
+Jefferson County,4.4,Oklahoma,2008
+Johnston County,4.4,Oklahoma,2008
+Kay County,3.8,Oklahoma,2008
+Kingfisher County,2.6,Oklahoma,2008
+Kiowa County,3.8,Oklahoma,2008
+Latimer County,4.3,Oklahoma,2008
+Le Flore County,5.3,Oklahoma,2008
+Lincoln County,4.3,Oklahoma,2008
+Logan County,3.7,Oklahoma,2008
+Love County,3,Oklahoma,2008
+Major County,2.6,Oklahoma,2008
+Marshall County,4.2,Oklahoma,2008
+Mayes County,4.6,Oklahoma,2008
+McClain County,4.1,Oklahoma,2008
+McCurtain County,6.8,Oklahoma,2008
+McIntosh County,5.1,Oklahoma,2008
+Murray County,2.7,Oklahoma,2008
+Muskogee County,5.1,Oklahoma,2008
+Noble County,3.4,Oklahoma,2008
+Nowata County,4.5,Oklahoma,2008
+Okfuskee County,4.5,Oklahoma,2008
+Oklahoma County,4.3,Oklahoma,2008
+Okmulgee County,5.6,Oklahoma,2008
+Osage County,4.3,Oklahoma,2008
+Ottawa County,4.3,Oklahoma,2008
+Pawnee County,4.9,Oklahoma,2008
+Payne County,4.1,Oklahoma,2008
+Pittsburg County,3.5,Oklahoma,2008
+Pontotoc County,3.4,Oklahoma,2008
+Pottawatomie County,4.2,Oklahoma,2008
+Pushmataha County,5.3,Oklahoma,2008
+Roger Mills County,2.3,Oklahoma,2008
+Rogers County,3.8,Oklahoma,2008
+Seminole County,4.6,Oklahoma,2008
+Sequoyah County,6,Oklahoma,2008
+Stephens County,3.8,Oklahoma,2008
+Texas County,2.9,Oklahoma,2008
+Tillman County,4.4,Oklahoma,2008
+Tulsa County,3.9,Oklahoma,2008
+Wagoner County,3.9,Oklahoma,2008
+Washington County,3.3,Oklahoma,2008
+Washita County,2.8,Oklahoma,2008
+Woods County,3.1,Oklahoma,2008
+Woodward County,2.4,Oklahoma,2008
+Baker County,7.1,Oregon,2008
+Benton County,5.4,Oregon,2008
+Clackamas County,6.5,Oregon,2008
+Clatsop County,5.5,Oregon,2008
+Columbia County,7.8,Oregon,2008
+Coos County,9.3,Oregon,2008
+Crook County,11.1,Oregon,2008
+Curry County,8.5,Oregon,2008
+Deschutes County,9.1,Oregon,2008
+Douglas County,10,Oregon,2008
+Gilliam County,4.5,Oregon,2008
+Grant County,9.6,Oregon,2008
+Harney County,8.2,Oregon,2008
+Hood River County,4.3,Oregon,2008
+Jackson County,8.2,Oregon,2008
+Jefferson County,10.4,Oregon,2008
+Josephine County,9.9,Oregon,2008
+Klamath County,9.4,Oregon,2008
+Lake County,8,Oregon,2008
+Lane County,7.8,Oregon,2008
+Lincoln County,7.4,Oregon,2008
+Linn County,8.6,Oregon,2008
+Malheur County,6.6,Oregon,2008
+Marion County,7.1,Oregon,2008
+Morrow County,5.6,Oregon,2008
+Multnomah County,6.7,Oregon,2008
+Polk County,6.1,Oregon,2008
+Sherman County,5.6,Oregon,2008
+Tillamook County,5.8,Oregon,2008
+Umatilla County,6.1,Oregon,2008
+Union County,9.5,Oregon,2008
+Wallowa County,6.6,Oregon,2008
+Wasco County,6.6,Oregon,2008
+Washington County,6,Oregon,2008
+Wheeler County,6.3,Oregon,2008
+Yamhill County,7,Oregon,2008
+Adams County,4.3,Pennsylvania,2008
+Allegheny County,4.8,Pennsylvania,2008
+Armstrong County,5.4,Pennsylvania,2008
+Beaver County,5.2,Pennsylvania,2008
+Bedford County,7.1,Pennsylvania,2008
+Berks County,5.5,Pennsylvania,2008
+Blair County,5.1,Pennsylvania,2008
+Bradford County,4.9,Pennsylvania,2008
+Bucks County,4.8,Pennsylvania,2008
+Butler County,4.2,Pennsylvania,2008
+Cambria County,5.6,Pennsylvania,2008
+Cameron County,9,Pennsylvania,2008
+Carbon County,6.3,Pennsylvania,2008
+Centre County,4.1,Pennsylvania,2008
+Chester County,4,Pennsylvania,2008
+Clarion County,5.3,Pennsylvania,2008
+Clearfield County,6.4,Pennsylvania,2008
+Clinton County,5.4,Pennsylvania,2008
+Columbia County,5.5,Pennsylvania,2008
+Crawford County,5.3,Pennsylvania,2008
+Cumberland County,4.5,Pennsylvania,2008
+Dauphin County,4.8,Pennsylvania,2008
+Delaware County,5.1,Pennsylvania,2008
+Elk County,6.5,Pennsylvania,2008
+Erie County,5.2,Pennsylvania,2008
+Fayette County,5.8,Pennsylvania,2008
+Forest County,7,Pennsylvania,2008
+Franklin County,4.6,Pennsylvania,2008
+Fulton County,9.1,Pennsylvania,2008
+Greene County,5.4,Pennsylvania,2008
+Huntingdon County,6.3,Pennsylvania,2008
+Indiana County,4.7,Pennsylvania,2008
+Jefferson County,5.1,Pennsylvania,2008
+Juniata County,5.1,Pennsylvania,2008
+Lackawanna County,5.6,Pennsylvania,2008
+Lancaster County,4.4,Pennsylvania,2008
+Lawrence County,5.5,Pennsylvania,2008
+Lebanon County,4.3,Pennsylvania,2008
+Lehigh County,5.5,Pennsylvania,2008
+Luzerne County,6.3,Pennsylvania,2008
+Lycoming County,5.5,Pennsylvania,2008
+Mc Kean County,6.2,Pennsylvania,2008
+Mercer County,6.8,Pennsylvania,2008
+Mifflin County,6.6,Pennsylvania,2008
+Monroe County,6.2,Pennsylvania,2008
+Montgomery County,4.5,Pennsylvania,2008
+Montour County,4.5,Pennsylvania,2008
+Northampton County,5.5,Pennsylvania,2008
+Northumberland County,6.4,Pennsylvania,2008
+Perry County,5.2,Pennsylvania,2008
+Philadelphia County,7.4,Pennsylvania,2008
+Pike County,5.4,Pennsylvania,2008
+Potter County,6.8,Pennsylvania,2008
+Schuylkill County,6.3,Pennsylvania,2008
+Snyder County,5.9,Pennsylvania,2008
+Somerset County,5.9,Pennsylvania,2008
+Sullivan County,5.9,Pennsylvania,2008
+Susquehanna County,5.2,Pennsylvania,2008
+Tioga County,5.6,Pennsylvania,2008
+Union County,6.3,Pennsylvania,2008
+Venango County,5.4,Pennsylvania,2008
+Warren County,4.8,Pennsylvania,2008
+Washington County,5,Pennsylvania,2008
+Wayne County,4.8,Pennsylvania,2008
+Westmoreland County,4.8,Pennsylvania,2008
+Wyoming County,5.4,Pennsylvania,2008
+York County,4.8,Pennsylvania,2008
+Bristol County,7.4,Rhode Island,2008
+Kent County,7.8,Rhode Island,2008
+Newport County,6.7,Rhode Island,2008
+Providence County,8.9,Rhode Island,2008
+Washington County,6.7,Rhode Island,2008
+Abbeville County,8.8,South Carolina,2008
+Aiken County,6.8,South Carolina,2008
+Allendale County,17.3,South Carolina,2008
+Anderson County,7.6,South Carolina,2008
+Bamberg County,12.9,South Carolina,2008
+Barnwell County,11.8,South Carolina,2008
+Beaufort County,6.2,South Carolina,2008
+Berkeley County,6.9,South Carolina,2008
+Calhoun County,9.5,South Carolina,2008
+Charleston County,6.2,South Carolina,2008
+Cherokee County,10.9,South Carolina,2008
+Chester County,12.3,South Carolina,2008
+Chesterfield County,10.4,South Carolina,2008
+Clarendon County,11,South Carolina,2008
+Colleton County,9.5,South Carolina,2008
+Darlington County,9.4,South Carolina,2008
+Dillon County,11.3,South Carolina,2008
+Dorchester County,6.6,South Carolina,2008
+Edgefield County,8,South Carolina,2008
+Fairfield County,11.2,South Carolina,2008
+Florence County,8,South Carolina,2008
+Georgetown County,8.2,South Carolina,2008
+Greenville County,6.5,South Carolina,2008
+Greenwood County,8.6,South Carolina,2008
+Hampton County,10,South Carolina,2008
+Horry County,8.5,South Carolina,2008
+Jasper County,7.1,South Carolina,2008
+Kershaw County,7.9,South Carolina,2008
+Lancaster County,12.3,South Carolina,2008
+Laurens County,7.9,South Carolina,2008
+Lee County,11,South Carolina,2008
+Lexington County,5.7,South Carolina,2008
+Marion County,15.3,South Carolina,2008
+Marlboro County,14.8,South Carolina,2008
+McCormick County,11.7,South Carolina,2008
+Newberry County,8,South Carolina,2008
+Oconee County,8.6,South Carolina,2008
+Orangeburg County,11.9,South Carolina,2008
+Pickens County,7.1,South Carolina,2008
+Richland County,6.9,South Carolina,2008
+Saluda County,7.3,South Carolina,2008
+Spartanburg County,7.8,South Carolina,2008
+Sumter County,9.2,South Carolina,2008
+Union County,11.6,South Carolina,2008
+Williamsburg County,10.9,South Carolina,2008
+York County,7.4,South Carolina,2008
+Aurora County,3.5,South Dakota,2008
+Beadle County,2.5,South Dakota,2008
+Bennett County,5,South Dakota,2008
+Bon Homme County,3.6,South Dakota,2008
+Brookings County,2.4,South Dakota,2008
+Brown County,2.4,South Dakota,2008
+Brule County,2.7,South Dakota,2008
+Buffalo County,12.9,South Dakota,2008
+Butte County,2.7,South Dakota,2008
+Campbell County,3.2,South Dakota,2008
+Charles Mix County,3.8,South Dakota,2008
+Clark County,3.4,South Dakota,2008
+Clay County,2.8,South Dakota,2008
+Codington County,2.7,South Dakota,2008
+Corson County,4.4,South Dakota,2008
+Custer County,2.7,South Dakota,2008
+Davison County,2.6,South Dakota,2008
+Day County,3.5,South Dakota,2008
+Deuel County,2.6,South Dakota,2008
+Dewey County,7.9,South Dakota,2008
+Douglas County,2.7,South Dakota,2008
+Edmunds County,3.1,South Dakota,2008
+Fall River County,3.3,South Dakota,2008
+Faulk County,3.2,South Dakota,2008
+Grant County,2.7,South Dakota,2008
+Gregory County,2.7,South Dakota,2008
+Haakon County,2.3,South Dakota,2008
+Hamlin County,2.8,South Dakota,2008
+Hand County,2.6,South Dakota,2008
+Hanson County,3.1,South Dakota,2008
+Harding County,2.7,South Dakota,2008
+Hughes County,2.3,South Dakota,2008
+Hutchinson County,2.9,South Dakota,2008
+Hyde County,2.9,South Dakota,2008
+Jackson County,6.5,South Dakota,2008
+Jerauld County,2.2,South Dakota,2008
+Jones County,2.4,South Dakota,2008
+Kingsbury County,3,South Dakota,2008
+Lake County,3,South Dakota,2008
+Lawrence County,3.1,South Dakota,2008
+Lincoln County,2.6,South Dakota,2008
+Lyman County,3.8,South Dakota,2008
+Marshall County,3.9,South Dakota,2008
+McCook County,5,South Dakota,2008
+McPherson County,3.4,South Dakota,2008
+Meade County,3.2,South Dakota,2008
+Mellette County,4.9,South Dakota,2008
+Miner County,3.8,South Dakota,2008
+Minnehaha County,2.8,South Dakota,2008
+Moody County,3.7,South Dakota,2008
+Pennington County,3,South Dakota,2008
+Perkins County,2.7,South Dakota,2008
+Potter County,2.8,South Dakota,2008
+Roberts County,3.7,South Dakota,2008
+Sanborn County,3.1,South Dakota,2008
+Shannon County,9.2,South Dakota,2008
+Spink County,2.9,South Dakota,2008
+Stanley County,2.4,South Dakota,2008
+Sully County,2.4,South Dakota,2008
+Todd County,6.8,South Dakota,2008
+Tripp County,2.7,South Dakota,2008
+Turner County,3.3,South Dakota,2008
+Union County,3.3,South Dakota,2008
+Walworth County,3.6,South Dakota,2008
+Yankton County,2.8,South Dakota,2008
+Ziebach County,6,South Dakota,2008
+Anderson County,6.1,Tennessee,2008
+Bedford County,7,Tennessee,2008
+Benton County,8.7,Tennessee,2008
+Bledsoe County,8.3,Tennessee,2008
+Blount County,6.1,Tennessee,2008
+Bradley County,6.4,Tennessee,2008
+Campbell County,8.5,Tennessee,2008
+Cannon County,8.1,Tennessee,2008
+Carroll County,9.3,Tennessee,2008
+Carter County,6.4,Tennessee,2008
+Cheatham County,5.9,Tennessee,2008
+Chester County,7,Tennessee,2008
+Claiborne County,7.7,Tennessee,2008
+Clay County,10.7,Tennessee,2008
+Cocke County,8.8,Tennessee,2008
+Coffee County,6.6,Tennessee,2008
+Crockett County,8.5,Tennessee,2008
+Cumberland County,7.8,Tennessee,2008
+Davidson County,5.7,Tennessee,2008
+Decatur County,9.2,Tennessee,2008
+Dekalb County,7.6,Tennessee,2008
+Dickson County,6.9,Tennessee,2008
+Dyer County,9.3,Tennessee,2008
+Fayette County,8,Tennessee,2008
+Fentress County,10.5,Tennessee,2008
+Franklin County,6.6,Tennessee,2008
+Gibson County,9.6,Tennessee,2008
+Giles County,8.5,Tennessee,2008
+Grainger County,8.2,Tennessee,2008
+Greene County,9.4,Tennessee,2008
+Grundy County,8.7,Tennessee,2008
+Hamblen County,7.6,Tennessee,2008
+Hamilton County,6.3,Tennessee,2008
+Hancock County,9.7,Tennessee,2008
+Hardeman County,8.6,Tennessee,2008
+Hardin County,7.7,Tennessee,2008
+Hawkins County,7.2,Tennessee,2008
+Haywood County,11.8,Tennessee,2008
+Henderson County,11,Tennessee,2008
+Henry County,9.2,Tennessee,2008
+Hickman County,8.4,Tennessee,2008
+Houston County,7.7,Tennessee,2008
+Humphreys County,8.1,Tennessee,2008
+Jackson County,9.2,Tennessee,2008
+Jefferson County,6.8,Tennessee,2008
+Johnson County,8,Tennessee,2008
+Knox County,5.1,Tennessee,2008
+Lake County,8.1,Tennessee,2008
+Lauderdale County,15,Tennessee,2008
+Lawrence County,10.4,Tennessee,2008
+Lewis County,10.6,Tennessee,2008
+Lincoln County,5.1,Tennessee,2008
+Loudon County,5.6,Tennessee,2008
+Macon County,9.1,Tennessee,2008
+Madison County,6.9,Tennessee,2008
+Marion County,7.9,Tennessee,2008
+Marshall County,8.9,Tennessee,2008
+Maury County,8,Tennessee,2008
+McMinn County,9,Tennessee,2008
+McNairy County,9.5,Tennessee,2008
+Meigs County,8.8,Tennessee,2008
+Monroe County,10.6,Tennessee,2008
+Montgomery County,6.6,Tennessee,2008
+Moore County,5.9,Tennessee,2008
+Morgan County,8.1,Tennessee,2008
+Obion County,7.7,Tennessee,2008
+Overton County,9.2,Tennessee,2008
+Perry County,19.2,Tennessee,2008
+Pickett County,11.8,Tennessee,2008
+Polk County,9.2,Tennessee,2008
+Putnam County,6.6,Tennessee,2008
+Rhea County,8.1,Tennessee,2008
+Roane County,6.1,Tennessee,2008
+Robertson County,6.4,Tennessee,2008
+Rutherford County,6.1,Tennessee,2008
+Scott County,12.9,Tennessee,2008
+Sequatchie County,7.3,Tennessee,2008
+Sevier County,6.1,Tennessee,2008
+Shelby County,7.2,Tennessee,2008
+Smith County,10.3,Tennessee,2008
+Stewart County,8.5,Tennessee,2008
+Sullivan County,5.5,Tennessee,2008
+Sumner County,6.5,Tennessee,2008
+Tipton County,8.8,Tennessee,2008
+Trousdale County,7.7,Tennessee,2008
+Unicoi County,7.2,Tennessee,2008
+Union County,6.2,Tennessee,2008
+Van Buren County,8.8,Tennessee,2008
+Warren County,8.8,Tennessee,2008
+Washington County,5.7,Tennessee,2008
+Wayne County,9.8,Tennessee,2008
+Weakley County,8.4,Tennessee,2008
+White County,9.7,Tennessee,2008
+Williamson County,4.9,Tennessee,2008
+Wilson County,5.8,Tennessee,2008
+Anderson County,6,Texas,2008
+Andrews County,3.4,Texas,2008
+Angelina County,4.8,Texas,2008
+Aransas County,4.6,Texas,2008
+Archer County,3.9,Texas,2008
+Armstrong County,3.5,Texas,2008
+Atascosa County,4.8,Texas,2008
+Austin County,4.5,Texas,2008
+Bailey County,3.8,Texas,2008
+Bandera County,4.3,Texas,2008
+Bastrop County,5.2,Texas,2008
+Baylor County,3.7,Texas,2008
+Bee County,6.4,Texas,2008
+Bell County,5,Texas,2008
+Bexar County,5,Texas,2008
+Blanco County,3.6,Texas,2008
+Borden County,3.1,Texas,2008
+Bosque County,5,Texas,2008
+Bowie County,5.3,Texas,2008
+Brazoria County,5.4,Texas,2008
+Brazos County,3.8,Texas,2008
+Brewster County,3.7,Texas,2008
+Briscoe County,4.5,Texas,2008
+Brooks County,5,Texas,2008
+Brown County,4.4,Texas,2008
+Burleson County,4.6,Texas,2008
+Burnet County,4.2,Texas,2008
+Caldwell County,5.7,Texas,2008
+Calhoun County,4.9,Texas,2008
+Callahan County,3.7,Texas,2008
+Cameron County,6.9,Texas,2008
+Camp County,5,Texas,2008
+Carson County,3.3,Texas,2008
+Cass County,6,Texas,2008
+Castro County,3.5,Texas,2008
+Chambers County,6.5,Texas,2008
+Cherokee County,6.6,Texas,2008
+Childress County,4.7,Texas,2008
+Clay County,4.6,Texas,2008
+Cochran County,4.6,Texas,2008
+Coke County,7.1,Texas,2008
+Coleman County,4.2,Texas,2008
+Collin County,4.7,Texas,2008
+Collingsworth County,3.9,Texas,2008
+Colorado County,4.1,Texas,2008
+Comal County,4.3,Texas,2008
+Comanche County,3.8,Texas,2008
+Concho County,5.1,Texas,2008
+Cooke County,3.6,Texas,2008
+Coryell County,6.5,Texas,2008
+Cottle County,4.1,Texas,2008
+Crane County,4,Texas,2008
+Crockett County,2.8,Texas,2008
+Crosby County,4.4,Texas,2008
+Culberson County,3.2,Texas,2008
+Dallam County,3,Texas,2008
+Dallas County,5.7,Texas,2008
+Dawson County,5.2,Texas,2008
+Deaf Smith County,3.8,Texas,2008
+Delta County,5.8,Texas,2008
+Denton County,4.8,Texas,2008
+Dewitt County,4.4,Texas,2008
+Dickens County,5.8,Texas,2008
+Dimmit County,6.6,Texas,2008
+Donley County,3.9,Texas,2008
+Duval County,5.1,Texas,2008
+Eastland County,4.5,Texas,2008
+Ector County,3.4,Texas,2008
+Edwards County,3.3,Texas,2008
+El Paso County,6.3,Texas,2008
+Ellis County,5.1,Texas,2008
+Erath County,3.8,Texas,2008
+Falls County,5.9,Texas,2008
+Fannin County,6.2,Texas,2008
+Fayette County,3.5,Texas,2008
+Fisher County,3.7,Texas,2008
+Floyd County,4.4,Texas,2008
+Foard County,4.6,Texas,2008
+Fort Bend County,4.7,Texas,2008
+Franklin County,4.5,Texas,2008
+Freestone County,4.3,Texas,2008
+Frio County,5.4,Texas,2008
+Gaines County,3.9,Texas,2008
+Galveston County,7.5,Texas,2008
+Garza County,3.9,Texas,2008
+Gillespie County,3.2,Texas,2008
+Glasscock County,3.6,Texas,2008
+Goliad County,3.7,Texas,2008
+Gonzales County,4.1,Texas,2008
+Gray County,3.4,Texas,2008
+Grayson County,5.2,Texas,2008
+Gregg County,4.1,Texas,2008
+Grimes County,5.2,Texas,2008
+Guadalupe County,4.5,Texas,2008
+Hale County,4.4,Texas,2008
+Hall County,5.5,Texas,2008
+Hamilton County,3.5,Texas,2008
+Hansford County,3,Texas,2008
+Hardeman County,3.6,Texas,2008
+Hardin County,5.7,Texas,2008
+Harris County,5,Texas,2008
+Harrison County,4.8,Texas,2008
+Hartley County,3.3,Texas,2008
+Haskell County,3,Texas,2008
+Hays County,4.5,Texas,2008
+Hemphill County,1.7,Texas,2008
+Henderson County,5.6,Texas,2008
+Hidalgo County,7.1,Texas,2008
+Hill County,5.2,Texas,2008
+Hockley County,3.5,Texas,2008
+Hood County,4.3,Texas,2008
+Hopkins County,4.1,Texas,2008
+Houston County,6.8,Texas,2008
+Howard County,4.9,Texas,2008
+Hudspeth County,3.6,Texas,2008
+Hunt County,5.6,Texas,2008
+Hutchinson County,4.1,Texas,2008
+Irion County,3.9,Texas,2008
+Jack County,3.3,Texas,2008
+Jackson County,3.9,Texas,2008
+Jasper County,6.7,Texas,2008
+Jeff Davis County,3.6,Texas,2008
+Jefferson County,7.8,Texas,2008
+Jim Hogg County,4,Texas,2008
+Jim Wells County,4.1,Texas,2008
+Johnson County,4.8,Texas,2008
+Jones County,5,Texas,2008
+Karnes County,6.1,Texas,2008
+Kaufman County,5.6,Texas,2008
+Kendall County,4.1,Texas,2008
+Kenedy County,2.5,Texas,2008
+Kent County,3.6,Texas,2008
+Kerr County,4.1,Texas,2008
+Kimble County,4.1,Texas,2008
+King County,3.9,Texas,2008
+Kinney County,4.6,Texas,2008
+Kleberg County,4.1,Texas,2008
+Knox County,3.4,Texas,2008
+La Salle County,5.3,Texas,2008
+Lamar County,5.7,Texas,2008
+Lamb County,4.2,Texas,2008
+Lampasas County,4.2,Texas,2008
+Lavaca County,3.7,Texas,2008
+Lee County,3.9,Texas,2008
+Leon County,4.1,Texas,2008
+Liberty County,6.3,Texas,2008
+Limestone County,4.3,Texas,2008
+Lipscomb County,2.8,Texas,2008
+Live Oak County,4.4,Texas,2008
+Llano County,4.4,Texas,2008
+Loving County,6.7,Texas,2008
+Lubbock County,3.7,Texas,2008
+Lynn County,4.7,Texas,2008
+Madison County,7,Texas,2008
+Marion County,5,Texas,2008
+Martin County,3.7,Texas,2008
+Mason County,3.1,Texas,2008
+Matagorda County,6.6,Texas,2008
+Maverick County,8.8,Texas,2008
+McCulloch County,4,Texas,2008
+McLennan County,4.5,Texas,2008
+McMullen County,5.8,Texas,2008
+Medina County,5.6,Texas,2008
+Menard County,4,Texas,2008
+Midland County,2.9,Texas,2008
+Milam County,5.9,Texas,2008
+Mills County,4.1,Texas,2008
+Mitchell County,5.5,Texas,2008
+Montague County,3.7,Texas,2008
+Montgomery County,4.5,Texas,2008
+Moore County,3.1,Texas,2008
+Morris County,5.9,Texas,2008
+Motley County,3.9,Texas,2008
+Nacogdoches County,4.4,Texas,2008
+Navarro County,5.3,Texas,2008
+Newton County,7.6,Texas,2008
+Nolan County,3.8,Texas,2008
+Nueces County,4.6,Texas,2008
+Ochiltree County,2.7,Texas,2008
+Oldham County,4.4,Texas,2008
+Orange County,7.9,Texas,2008
+Palo Pinto County,4.4,Texas,2008
+Panola County,4,Texas,2008
+Parker County,4.5,Texas,2008
+Parmer County,3.3,Texas,2008
+Pecos County,4.3,Texas,2008
+Polk County,6.5,Texas,2008
+Potter County,4.1,Texas,2008
+Presidio County,10.2,Texas,2008
+Rains County,5.4,Texas,2008
+Randall County,3.2,Texas,2008
+Reagan County,2.1,Texas,2008
+Real County,3.6,Texas,2008
+Red River County,6.2,Texas,2008
+Reeves County,5.6,Texas,2008
+Refugio County,3.7,Texas,2008
+Roberts County,2.4,Texas,2008
+Robertson County,5.3,Texas,2008
+Rockwall County,4.9,Texas,2008
+Runnels County,4.4,Texas,2008
+Rusk County,4.3,Texas,2008
+Sabine County,9.6,Texas,2008
+San Augustine County,6.2,Texas,2008
+San Jacinto County,6.1,Texas,2008
+San Patricio County,5.2,Texas,2008
+San Saba County,5.8,Texas,2008
+Schleicher County,3.1,Texas,2008
+Scurry County,3.8,Texas,2008
+Shackelford County,2.8,Texas,2008
+Shelby County,4.8,Texas,2008
+Sherman County,3.3,Texas,2008
+Smith County,5.9,Texas,2008
+Somervell County,4.2,Texas,2008
+Starr County,10.1,Texas,2008
+Stephens County,3.7,Texas,2008
+Sterling County,3,Texas,2008
+Stonewall County,3.1,Texas,2008
+Sutton County,2.1,Texas,2008
+Swisher County,4.5,Texas,2008
+Tarrant County,5,Texas,2008
+Taylor County,3.7,Texas,2008
+Terrell County,4.9,Texas,2008
+Terry County,4.1,Texas,2008
+Throckmorton County,2.9,Texas,2008
+Titus County,4.4,Texas,2008
+Tom Green County,4.3,Texas,2008
+Travis County,4.5,Texas,2008
+Trinity County,5.9,Texas,2008
+Tyler County,6.4,Texas,2008
+Upshur County,4.4,Texas,2008
+Upton County,3.1,Texas,2008
+Uvalde County,5.8,Texas,2008
+Val Verde County,5.7,Texas,2008
+Van Zandt County,4.6,Texas,2008
+Victoria County,4,Texas,2008
+Walker County,5.4,Texas,2008
+Waller County,5.1,Texas,2008
+Ward County,4,Texas,2008
+Washington County,4.1,Texas,2008
+Webb County,5.3,Texas,2008
+Wharton County,4.4,Texas,2008
+Wheeler County,2.4,Texas,2008
+Wichita County,5.3,Texas,2008
+Wilbarger County,3.5,Texas,2008
+Willacy County,8.5,Texas,2008
+Williamson County,4.8,Texas,2008
+Wilson County,4.8,Texas,2008
+Winkler County,3.6,Texas,2008
+Wise County,4.4,Texas,2008
+Wood County,5.3,Texas,2008
+Yoakum County,2.9,Texas,2008
+Young County,3.5,Texas,2008
+Zapata County,4.9,Texas,2008
+Zavala County,10.3,Texas,2008
+Beaver County,3.5,Utah,2008
+Box Elder County,4.3,Utah,2008
+Cache County,2.7,Utah,2008
+Carbon County,3.7,Utah,2008
+Daggett County,2.3,Utah,2008
+Davis County,3.4,Utah,2008
+Duchesne County,2.4,Utah,2008
+Emery County,3.6,Utah,2008
+Garfield County,3.6,Utah,2008
+Grand County,4,Utah,2008
+Iron County,4.2,Utah,2008
+Juab County,5.4,Utah,2008
+Kane County,3.6,Utah,2008
+Millard County,2.8,Utah,2008
+Morgan County,3.2,Utah,2008
+Piute County,2.1,Utah,2008
+Rich County,2.8,Utah,2008
+Salt Lake County,3.4,Utah,2008
+San Juan County,4.8,Utah,2008
+Sanpete County,3.5,Utah,2008
+Sevier County,3.7,Utah,2008
+Summit County,3.7,Utah,2008
+Tooele County,3.8,Utah,2008
+Uintah County,2,Utah,2008
+Utah County,3.3,Utah,2008
+Wasatch County,3.5,Utah,2008
+Washington County,5.1,Utah,2008
+Wayne County,3.4,Utah,2008
+Weber County,4.3,Utah,2008
+Addison County,3.8,Vermont,2008
+Bennington County,4.3,Vermont,2008
+Caledonia County,4.3,Vermont,2008
+Chittenden County,3.8,Vermont,2008
+Essex County,5.3,Vermont,2008
+Franklin County,4.3,Vermont,2008
+Grand Isle County,4.2,Vermont,2008
+Lamoille County,4.4,Vermont,2008
+Orange County,3.7,Vermont,2008
+Orleans County,5.2,Vermont,2008
+Rutland County,5,Vermont,2008
+Washington County,4,Vermont,2008
+Windham County,3.9,Vermont,2008
+Windsor County,3.4,Vermont,2008
+Accomack County,4.7,Virginia,2008
+Albemarle County,3.1,Virginia,2008
+Alexandria City,2.9,Virginia,2008
+Alleghany County,5.3,Virginia,2008
+Amelia County,4.6,Virginia,2008
+Amherst County,4.2,Virginia,2008
+Appomattox County,4.6,Virginia,2008
+Arlington County,2.6,Virginia,2008
+Augusta County,3.9,Virginia,2008
+Bath County,3.8,Virginia,2008
+Bedford County,3.8,Virginia,2008
+Bland County,4.8,Virginia,2008
+Botetourt County,3.3,Virginia,2008
+Bristol City,5.8,Virginia,2008
+Brunswick County,6.8,Virginia,2008
+Buchanan County,4.6,Virginia,2008
+Buckingham County,5,Virginia,2008
+Buena Vista City,5.5,Virginia,2008
+Campbell County,4,Virginia,2008
+Caroline County,4.7,Virginia,2008
+Carroll County,6.8,Virginia,2008
+Charles City County,4.5,Virginia,2008
+Charlotte County,6.3,Virginia,2008
+Charlottesville City,3.8,Virginia,2008
+Chesapeake City,3.9,Virginia,2008
+Chesterfield County,3.7,Virginia,2008
+Clarke County,3.7,Virginia,2008
+Colonial Heights City,4.5,Virginia,2008
+Covington City,6.3,Virginia,2008
+Craig County,3.4,Virginia,2008
+Culpeper County,4.8,Virginia,2008
+Cumberland County,4.6,Virginia,2008
+Danville City,10.7,Virginia,2008
+Dickenson County,5.5,Virginia,2008
+Dinwiddie County,4,Virginia,2008
+Emporia City,7.6,Virginia,2008
+Essex County,5.4,Virginia,2008
+Fairfax City,3.1,Virginia,2008
+Fairfax County,3,Virginia,2008
+Falls Church City,4.1,Virginia,2008
+Fauquier County,3.4,Virginia,2008
+Floyd County,4.7,Virginia,2008
+Fluvanna County,3.3,Virginia,2008
+Franklin City,6.1,Virginia,2008
+Franklin County,5,Virginia,2008
+Frederick County,4.2,Virginia,2008
+Fredericksburg City,5.9,Virginia,2008
+Galax City,6.3,Virginia,2008
+Giles County,5.2,Virginia,2008
+Gloucester County,3.6,Virginia,2008
+Goochland County,3.3,Virginia,2008
+Grayson County,6.6,Virginia,2008
+Greene County,3.1,Virginia,2008
+Greensville County,5.9,Virginia,2008
+Halifax County,6.8,Virginia,2008
+Hampton City,5.1,Virginia,2008
+Hanover County,3.5,Virginia,2008
+Harrisonburg City,4.1,Virginia,2008
+Henrico County,3.8,Virginia,2008
+Henry County,8.4,Virginia,2008
+Highland County,4.7,Virginia,2008
+Hopewell City,5.8,Virginia,2008
+Isle of Wight County,3.7,Virginia,2008
+James City County,3.3,Virginia,2008
+King George County,5,Virginia,2008
+King William County,3.8,Virginia,2008
+King and Queen County,5,Virginia,2008
+Lancaster County,4.7,Virginia,2008
+Lee County,5.3,Virginia,2008
+Lexington City,6,Virginia,2008
+Loudoun County,2.9,Virginia,2008
+Louisa County,4.2,Virginia,2008
+Lunenburg County,6,Virginia,2008
+Lynchburg City,4.6,Virginia,2008
+Madison County,3.7,Virginia,2008
+Manassas City,4.2,Virginia,2008
+Manassas Park City,3.3,Virginia,2008
+Martinsville City,12.7,Virginia,2008
+Mathews County,3.6,Virginia,2008
+Mecklenburg County,6.9,Virginia,2008
+Middlesex County,3.9,Virginia,2008
+Montgomery County,4,Virginia,2008
+Nelson County,4.1,Virginia,2008
+New Kent County,3.8,Virginia,2008
+Newport News City,4.8,Virginia,2008
+Norfolk City,5.3,Virginia,2008
+Northampton County,5.1,Virginia,2008
+Northumberland County,4.8,Virginia,2008
+Norton City,4.8,Virginia,2008
+Nottoway County,6.1,Virginia,2008
+Orange County,4.7,Virginia,2008
+Page County,6.4,Virginia,2008
+Patrick County,6.4,Virginia,2008
+Petersburg City,7.2,Virginia,2008
+Pittsylvania County,7.6,Virginia,2008
+Poquoson City,3.2,Virginia,2008
+Portsmouth City,5.1,Virginia,2008
+Powhatan County,3.4,Virginia,2008
+Prince Edward County,5.5,Virginia,2008
+Prince George County,4.5,Virginia,2008
+Prince William County,3.4,Virginia,2008
+Pulaski County,6.7,Virginia,2008
+Radford City,5.1,Virginia,2008
+Rappahannock County,3.6,Virginia,2008
+Richmond City,5.9,Virginia,2008
+Richmond County,4.8,Virginia,2008
+Roanoke City,4.5,Virginia,2008
+Roanoke County,3.2,Virginia,2008
+Rockbridge County,4.9,Virginia,2008
+Rockingham County,3.3,Virginia,2008
+Russell County,5.1,Virginia,2008
+Salem City,3.7,Virginia,2008
+Scott County,5.1,Virginia,2008
+Shenandoah County,4.6,Virginia,2008
+Smyth County,5.8,Virginia,2008
+Southampton County,4.8,Virginia,2008
+Spotsylvania County,3.6,Virginia,2008
+Stafford County,3.5,Virginia,2008
+Staunton City,4.7,Virginia,2008
+Suffolk City,4.1,Virginia,2008
+Surry County,4.6,Virginia,2008
+Sussex County,5.5,Virginia,2008
+Tazewell County,4.1,Virginia,2008
+Virginia Beach City,3.7,Virginia,2008
+Warren County,4.5,Virginia,2008
+Washington County,4.5,Virginia,2008
+Waynesboro City,5.6,Virginia,2008
+Westmoreland County,5.2,Virginia,2008
+Williamsburg City,8.5,Virginia,2008
+Winchester City,4.5,Virginia,2008
+Wise County,4.3,Virginia,2008
+Wythe County,5.9,Virginia,2008
+York County,3.4,Virginia,2008
+Adams County,4.3,Washington,2008
+Asotin County,6.4,Washington,2008
+Benton County,4.9,Washington,2008
+Chelan County,4.2,Washington,2008
+Clallam County,6.7,Washington,2008
+Clark County,7.6,Washington,2008
+Columbia County,6.9,Washington,2008
+Cowlitz County,8.2,Washington,2008
+Douglas County,4.2,Washington,2008
+Ferry County,7.4,Washington,2008
+Franklin County,5.1,Washington,2008
+Garfield County,4.7,Washington,2008
+Grant County,4.9,Washington,2008
+Grays Harbor County,8.1,Washington,2008
+Island County,5.7,Washington,2008
+Jefferson County,5.7,Washington,2008
+King County,4.6,Washington,2008
+Kitsap County,5.2,Washington,2008
+Kittitas County,5.6,Washington,2008
+Klickitat County,6.1,Washington,2008
+Lewis County,7.7,Washington,2008
+Lincoln County,4.9,Washington,2008
+Mason County,7.1,Washington,2008
+Okanogan County,4.8,Washington,2008
+Pacific County,8.4,Washington,2008
+Pend Oreille County,8.1,Washington,2008
+Pierce County,6,Washington,2008
+San Juan County,3.6,Washington,2008
+Skagit County,5.7,Washington,2008
+Skamania County,7.6,Washington,2008
+Snohomish County,5.4,Washington,2008
+Spokane County,5.4,Washington,2008
+Stevens County,7.3,Washington,2008
+Thurston County,5.3,Washington,2008
+Wahkiakum County,7.1,Washington,2008
+Walla Walla County,4.3,Washington,2008
+Whatcom County,5,Washington,2008
+Whitman County,4,Washington,2008
+Yakima County,5.2,Washington,2008
+Barbour County,4,West Virginia,2008
+Berkeley County,4.6,West Virginia,2008
+Boone County,3.2,West Virginia,2008
+Braxton County,3.9,West Virginia,2008
+Brooke County,5.1,West Virginia,2008
+Cabell County,3.4,West Virginia,2008
+Calhoun County,4.7,West Virginia,2008
+Clay County,5,West Virginia,2008
+Doddridge County,4.1,West Virginia,2008
+Fayette County,3.5,West Virginia,2008
+Gilmer County,3,West Virginia,2008
+Grant County,4,West Virginia,2008
+Greenbrier County,4.1,West Virginia,2008
+Hampshire County,3.7,West Virginia,2008
+Hancock County,5,West Virginia,2008
+Hardy County,3.8,West Virginia,2008
+Harrison County,3.3,West Virginia,2008
+Jackson County,4.2,West Virginia,2008
+Jefferson County,3.8,West Virginia,2008
+Kanawha County,3,West Virginia,2008
+Lewis County,3.2,West Virginia,2008
+Lincoln County,3.7,West Virginia,2008
+Logan County,3.5,West Virginia,2008
+Marion County,3,West Virginia,2008
+Marshall County,4.3,West Virginia,2008
+Mason County,5.7,West Virginia,2008
+McDowell County,4.9,West Virginia,2008
+Mercer County,3.5,West Virginia,2008
+Mineral County,3.7,West Virginia,2008
+Mingo County,3.7,West Virginia,2008
+Monongalia County,2.5,West Virginia,2008
+Monroe County,3.6,West Virginia,2008
+Morgan County,4.6,West Virginia,2008
+Nicholas County,3.9,West Virginia,2008
+Ohio County,3.8,West Virginia,2008
+Pendleton County,3.7,West Virginia,2008
+Pleasants County,4.4,West Virginia,2008
+Pocahontas County,5.9,West Virginia,2008
+Preston County,3,West Virginia,2008
+Putnam County,2.8,West Virginia,2008
+Raleigh County,3.3,West Virginia,2008
+Randolph County,4.9,West Virginia,2008
+Ritchie County,3.8,West Virginia,2008
+Roane County,4.7,West Virginia,2008
+Summers County,4,West Virginia,2008
+Taylor County,3.8,West Virginia,2008
+Tucker County,5.2,West Virginia,2008
+Tyler County,4.9,West Virginia,2008
+Upshur County,3.7,West Virginia,2008
+Wayne County,3.9,West Virginia,2008
+Webster County,4.7,West Virginia,2008
+Wetzel County,5.4,West Virginia,2008
+Wirt County,4.8,West Virginia,2008
+Wood County,4,West Virginia,2008
+Wyoming County,3.7,West Virginia,2008
+Adams County,6.1,Wisconsin,2008
+Ashland County,5.2,Wisconsin,2008
+Barron County,4.8,Wisconsin,2008
+Bayfield County,4.6,Wisconsin,2008
+Brown County,4.3,Wisconsin,2008
+Buffalo County,3.6,Wisconsin,2008
+Burnett County,5.7,Wisconsin,2008
+Calumet County,4.1,Wisconsin,2008
+Chippewa County,4.4,Wisconsin,2008
+Clark County,4.4,Wisconsin,2008
+Columbia County,4.7,Wisconsin,2008
+Crawford County,5.4,Wisconsin,2008
+Dane County,3.4,Wisconsin,2008
+Dodge County,5,Wisconsin,2008
+Door County,3.7,Wisconsin,2008
+Douglas County,4.7,Wisconsin,2008
+Dunn County,3.5,Wisconsin,2008
+Eau Claire County,3.8,Wisconsin,2008
+Florence County,6,Wisconsin,2008
+Fond du Lac County,4.5,Wisconsin,2008
+Forest County,6.1,Wisconsin,2008
+Grant County,4.3,Wisconsin,2008
+Green County,4.3,Wisconsin,2008
+Green Lake County,4.7,Wisconsin,2008
+Iowa County,3.9,Wisconsin,2008
+Iron County,5.7,Wisconsin,2008
+Jackson County,4.6,Wisconsin,2008
+Jefferson County,4.4,Wisconsin,2008
+Juneau County,5.4,Wisconsin,2008
+Kenosha County,5.3,Wisconsin,2008
+Kewaunee County,4,Wisconsin,2008
+La Crosse County,3.8,Wisconsin,2008
+Lafayette County,3.6,Wisconsin,2008
+Langlade County,5.3,Wisconsin,2008
+Lincoln County,4.8,Wisconsin,2008
+Manitowoc County,4.4,Wisconsin,2008
+Marathon County,4.1,Wisconsin,2008
+Marinette County,5.9,Wisconsin,2008
+Marquette County,5.4,Wisconsin,2008
+Menominee County,9.1,Wisconsin,2008
+Milwaukee County,5.6,Wisconsin,2008
+Monroe County,4.2,Wisconsin,2008
+Oconto County,6.1,Wisconsin,2008
+Oneida County,4.8,Wisconsin,2008
+Outagamie County,4.3,Wisconsin,2008
+Ozaukee County,3.7,Wisconsin,2008
+Pepin County,3.8,Wisconsin,2008
+Pierce County,3.7,Wisconsin,2008
+Polk County,5,Wisconsin,2008
+Portage County,3.8,Wisconsin,2008
+Price County,4.2,Wisconsin,2008
+Racine County,5.4,Wisconsin,2008
+Richland County,4.5,Wisconsin,2008
+Rock County,6.7,Wisconsin,2008
+Rusk County,5.5,Wisconsin,2008
+Saint Croix County,3.9,Wisconsin,2008
+Sauk County,4.5,Wisconsin,2008
+Sawyer County,5.4,Wisconsin,2008
+Shawano County,4.9,Wisconsin,2008
+Sheboygan County,4.3,Wisconsin,2008
+Taylor County,4.6,Wisconsin,2008
+Trempealeau County,3.8,Wisconsin,2008
+Vernon County,4.2,Wisconsin,2008
+Vilas County,5.1,Wisconsin,2008
+Walworth County,4.3,Wisconsin,2008
+Washburn County,5.9,Wisconsin,2008
+Washington County,4,Wisconsin,2008
+Waukesha County,3.8,Wisconsin,2008
+Waupaca County,5,Wisconsin,2008
+Waushara County,5.1,Wisconsin,2008
+Winnebago County,4.1,Wisconsin,2008
+Wood County,4.9,Wisconsin,2008
+Albany County,2.3,Wyoming,2008
+Big Horn County,3.3,Wyoming,2008
+Campbell County,1.8,Wyoming,2008
+Carbon County,3.3,Wyoming,2008
+Converse County,2.6,Wyoming,2008
+Crook County,2.4,Wyoming,2008
+Fremont County,3.5,Wyoming,2008
+Goshen County,2.9,Wyoming,2008
+Hot Springs County,3,Wyoming,2008
+Johnson County,2.8,Wyoming,2008
+Laramie County,3.4,Wyoming,2008
+Lincoln County,3.1,Wyoming,2008
+Natrona County,2.5,Wyoming,2008
+Niobrara County,3.3,Wyoming,2008
+Park County,3.1,Wyoming,2008
+Platte County,3.5,Wyoming,2008
+Sheridan County,2.7,Wyoming,2008
+Sublette County,1.6,Wyoming,2008
+Sweetwater County,2.2,Wyoming,2008
+Teton County,3.1,Wyoming,2008
+Uinta County,2.6,Wyoming,2008
+Washakie County,2.7,Wyoming,2008
+Weston County,3,Wyoming,2008
