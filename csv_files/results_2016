@@ -1552,8 +1552,8 @@ county,dem_vote,rep_vote,year
 "St. Charles, MO",68225,120899,2016
 "St. Clair, MO",936,3501,2016
 "St. Francois, MO",6250,17467,2016
-"St. Louis, MO",101487,20281,2016
-"St. Louis Co., MO",280866,199081,2016
+"St. Louis Co., MO",101487,20281,2016
+"St. Louis, MO",280866,199081,2016
 "Stoddard, MO",1873,11077,2016
 "Stone, MO",2886,13149,2016
 "Sullivan, MO",526,1884,2016
@@ -2798,7 +2798,7 @@ county,dem_vote,rep_vote,year
 "Arlington, VA",91879,20155,2016
 "Augusta, VA",8108,26152,2016
 "Bath, VA",603,1548,2016
-"Bedford Co., VA",9733,30578,2016
+"Bedford, VA",9733,30578,2016
 "Bland, VA",453,2572,2016
 "Botetourt, VA",4492,13369,2016
 "Bristol, VA",1832,4884,2016
@@ -2825,14 +2825,14 @@ county,dem_vote,rep_vote,year
 "Dinwiddie, VA",5765,7447,2016
 "Emporia, VA",1531,792,2016
 "Essex, VA",2541,2657,2016
-"Fairfax, VA",7363,3695,2016
-"Fairfax Co., VA",354485,157837,2016
+"Fairfax Co., VA",7363,3695,2016
+"Fairfax, VA",354485,157837,2016
 "Falls Church, VA",5810,1323,2016
 "Fauquier, VA",12960,22110,2016
 "Floyd, VA",2300,5289,2016
 "Fluvanna, VA",5751,7018,2016
-"Franklin, VA",2516,1421,2016
-"Franklin Co., VA",7254,18560,2016
+"Franklin Co., VA",2516,1421,2016
+"Franklin, VA",7254,18560,2016
 "Frederick, VA",11920,26069,2016
 "Fredericksburg, VA",6690,3731,2016
 "Galax, VA",680,1603,2016
@@ -2892,10 +2892,10 @@ county,dem_vote,rep_vote,year
 "Pulaski, VA",4170,10314,2016
 "Radford, VA",2923,2637,2016
 "Rappahannock, VA",1741,2532,2016
-"Richmond, VA",74640,14254,2016
-"Richmond Co., VA",1347,2213,2016
-"Roanoke, VA",23403,16045,2016
-"Roanoke Co., VA",16787,30857,2016
+"Richmond Co., VA",74640,14254,2016
+"Richmond, VA",1347,2213,2016
+"Roanoke Co., VA",23403,16045,2016
+"Roanoke, VA",16787,30857,2016
 "Rockbridge, VA",3506,6671,2016
 "Rockingham, VA",9361,25269,2016
 "Russell, VA",2328,9516,2016

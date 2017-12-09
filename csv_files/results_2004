@@ -1552,8 +1552,8 @@ county,dem_vote,rep_vote,year
 "St. Charles, MO",66826,95789,2004
 "St. Clair, MO",1841,3098,2004
 "St. Francois, MO",10748,12087,2004
-"St. Louis, MO",115414,27460,2004
-"St. Louis Co., MO",294402,244388,2004
+"St. Louis Co., MO",115414,27460,2004
+"St. Louis, MO",294402,244388,2004
 "Stoddard, MO",3946,9241,2004
 "Stone, MO",4576,10521,2004
 "Sullivan, MO",1178,1880,2004
@@ -2796,8 +2796,8 @@ county,dem_vote,rep_vote,year
 "Arlington, VA",63705,29545,2004
 "Augusta, VA",7019,22099,2004
 "Bath, VA",820,1419,2004
-"Bedford, VA",1042,1470,2004
-"Bedford Co., VA",9050,21921,2004
+"Bedford Co., VA",1042,1470,2004
+"Bedford, VA",9050,21921,2004
 "Bland, VA",846,1962,2004
 "Botetourt, VA",4801,10865,2004
 "Bristol, VA",2399,4273,2004
@@ -2824,14 +2824,14 @@ county,dem_vote,rep_vote,year
 "Dinwiddie, VA",4569,6193,2004
 "Emporia, VA",1247,970,2004
 "Essex, VA",2007,2304,2004
-"Fairfax, VA",5393,5042,2004
-"Fairfax Co., VA",215223,189371,2004
+"Fairfax Co., VA",5393,5042,2004
+"Fairfax, VA",215223,189371,2004
 "Falls Church, VA",3937,2072,2004
 "Fauquier, VA",9830,17713,2004
 "Floyd, VA",2487,4162,2004
 "Fluvanna, VA",4413,6456,2004
-"Franklin, VA",1909,1611,2004
-"Franklin Co., VA",8001,14048,2004
+"Franklin Co., VA",1909,1611,2004
+"Franklin, VA",8001,14048,2004
 "Frederick, VA",8848,19375,2004
 "Fredericksburg, VA",4075,3383,2004
 "Galax, VA",986,1336,2004
@@ -2891,10 +2891,10 @@ county,dem_vote,rep_vote,year
 "Pulaski, VA",5309,8766,2004
 "Radford, VA",2173,2564,2004
 "Rappahannock, VA",1837,2172,2004
-"Richmond, VA",49731,20606,2004
-"Richmond Co., VA",1243,2082,2004
-"Roanoke, VA",17796,15761,2004
-"Roanoke Co., VA",16079,30589,2004
+"Richmond Co., VA",49731,20606,2004
+"Richmond, VA",1243,2082,2004
+"Roanoke Co., VA",17796,15761,2004
+"Roanoke, VA",16079,30589,2004
 "Rockbridge, VA",3637,5412,2004
 "Rockingham, VA",6769,20815,2004
 "Russell, VA",5164,6074,2004
