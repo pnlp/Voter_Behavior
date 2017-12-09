@@ -234,8 +234,8 @@ Denver County,6,Colorado,2004,550756,154.94,1.59,153.35
 Dolores County,6.2,Colorado,2004,1850,1068.09,1.13,1066.97
 Douglas County,4.4,Colorado,2004,232508,842.75,2.64,840.11
 Eagle County,4.9,Colorado,2004,45893,1691.8,3.93,1687.88
-El Paso County,5.4,Colorado,2004,21977,1850.89,0.11,1850.78
-Elbert County,4.5,Colorado,2004,556667,2129.56,3.11,2126.45
+El Paso County,5.4,Colorado,2004,556667,2129.56,3.11,2126.45
+Elbert County,4.5,Colorado,2004,21977,1850.89,0.11,1850.78
 Fremont County,6.6,Colorado,2004,46605,1533.95,1.02,1532.93
 Garfield County,3.8,Colorado,2004,48193,2955.76,8.7,2947.06
 Gilpin County,4.5,Colorado,2004,4752,150.25,0.39,149.87
@@ -611,8 +611,8 @@ Kane County,5.5,Illinois,2004,466884,524.08,3.64,520.44
 Kankakee County,6.7,Illinois,2004,106744,681.44,4.7,676.75
 Kendall County,4.8,Illinois,2004,73723,322.67,2.09,320.58
 Knox County,8,Illinois,2004,53909,719.7,3.42,716.28
-La Salle County,6.4,Illinois,2004,677735,1367.95,920.39,447.56
-Lake County,4.8,Illinois,2004,112135,1148.04,13.12,1134.92
+La Salle County,6.4,Illinois,2004,112135,1148.04,13.12,1134.92
+Lake County,4.8,Illinois,2004,677735,1367.95,920.39,447.56
 Lawrence County,5.5,Illinois,2004,16562,373.94,1.96,371.98
 Lee County,4.9,Illinois,2004,35704,729.29,3.92,725.36
 Livingston County,4.9,Illinois,2004,39145,1045.43,1.67,1043.76
@@ -2852,9 +2852,9 @@ Highland County,3,Virginia,2004,2442,415.86,0,415.86
 Hopewell City,5.5,Virginia,2004,21998,10.82,0.58,10.24
 Isle of Wight County,3.1,Virginia,2004,31899,362.76,46.89,315.87
 James City County,2.8,Virginia,2004,56182,179.71,36.79,142.92
-King George County,3,Virginia,2004,6739,187.79,7.79,180
-King William County,3.4,Virginia,2004,19124,285.65,10.22,275.43
-King and Queen County,3.7,Virginia,2004,13975,326.33,10.06,316.26
+King George County,3,Virginia,2004,19124,285.65,10.22,275.43
+King William County,3.4,Virginia,2004,13975,326.33,10.06,316.26
+King and Queen County,3.7,Virginia,2004,6739,187.79,7.79,180
 Lancaster County,4.5,Virginia,2004,11514,231.35,98.2,133.14
 Lee County,4.7,Virginia,2004,25168,437.32,0.18,437.13
 Lexington City,5.1,Virginia,2004,6810,2.49,0,2.49

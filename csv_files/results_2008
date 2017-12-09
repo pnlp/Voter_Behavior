@@ -1552,8 +1552,8 @@ county,dem_vote,rep_vote,year
 "St. Charles, MO",84163,102538,2008
 "St. Clair, MO",1886,2981,2008
 "St. Francois, MO",11538,12659,2008
-"St. Louis, MO",132486,24594,2008
-"St. Louis Co., MO",332085,221016,2008
+"St. Louis Co., MO",132486,24594,2008
+"St. Louis, MO",332085,221016,2008
 "Stoddard, MO",3899,9172,2008
 "Stone, MO",5025,11137,2008
 "Sullivan, MO",1173,1607,2008
@@ -2798,8 +2798,8 @@ county,dem_vote,rep_vote,year
 "Arlington, VA",78994,29876,2008
 "Augusta, VA",9825,23120,2008
 "Bath, VA",1043,1349,2008
-"Bedford, VA",1208,1497,2008
-"Bedford Co., VA",11017,24420,2008
+"Bedford Co., VA",1208,1497,2008
+"Bedford, VA",11017,24420,2008
 "Bland, VA",864,2031,2008
 "Botetourt, VA",5693,11471,2008
 "Bristol, VA",2665,4579,2008
@@ -2826,14 +2826,14 @@ county,dem_vote,rep_vote,year
 "Dinwiddie, VA",6246,6526,2008
 "Emporia, VA",1702,897,2008
 "Essex, VA",2934,2379,2008
-"Fairfax, VA",6571,4686,2008
-"Fairfax Co., VA",310359,200994,2008
+"Fairfax Co., VA",6571,4686,2008
+"Fairfax, VA",310359,200994,2008
 "Falls Church, VA",4695,1970,2008
 "Fauquier, VA",14616,19227,2008
 "Floyd, VA",2937,4441,2008
 "Fluvanna, VA",6185,6420,2008
-"Franklin, VA",2817,1575,2008
-"Franklin Co., VA",9618,15414,2008
+"Franklin Co., VA",2817,1575,2008
+"Franklin, VA",9618,15414,2008
 "Frederick, VA",12961,20149,2008
 "Fredericksburg, VA",6155,3413,2008
 "Galax, VA",1052,1317,2008
@@ -2893,8 +2893,8 @@ county,dem_vote,rep_vote,year
 "Pulaski, VA",5918,8857,2008
 "Radford, VA",2930,2418,2008
 "Rappahannock, VA",2105,2227,2008
-"Richmond, VA",73180,18472,2008
-"Richmond Co., VA",1618,2092,2008
+"Richmond Co., VA",73180,18472,2008
+"Richmond, VA",1618,2092,2008
 "Roanoke, VA",24934,15394,2008
 "Roanoke Co., VA",19812,30571,2008
 "Rockbridge, VA",4347,5732,2008

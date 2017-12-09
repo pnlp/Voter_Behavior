@@ -1552,8 +1552,8 @@ county,dem_vote,rep_vote,year
 "St. Charles, MO",71798,110732,2012
 "St. Clair, MO",1460,3019,2012
 "St. Francois, MO",8837,13248,2012
-"St. Louis, MO",116654,22617,2012
-"St. Louis Co., MO",294735,223102,2012
+"St. Louis Co., MO",116654,22617,2012
+"St. Louis, MO",294735,223102,2012
 "Stoddard, MO",3153,9496,2012
 "Stone, MO",3920,11780,2012
 "Sullivan, MO",908,1610,2012
@@ -2798,8 +2798,8 @@ county,dem_vote,rep_vote,year
 "Arlington, VA",81178,34433,2012
 "Augusta, VA",9448,23614,2012
 "Bath, VA",894,1274,2012
-"Bedford, VA",1225,1527,2012
-"Bedford Co., VA",10925,29281,2012
+"Bedford Co., VA",1225,1527,2012
+"Bedford, VA",10925,29281,2012
 "Bland, VA",735,2144,2012
 "Botetourt, VA",5449,12471,2012
 "Bristol, VA",2487,4776,2012
@@ -2826,14 +2826,14 @@ county,dem_vote,rep_vote,year
 "Dinwiddie, VA",6425,6769,2012
 "Emporia, VA",1793,886,2012
 "Essex, VA",3009,2602,2012
-"Fairfax, VA",6636,4762,2012
-"Fairfax Co., VA",260835,173786,2012
+"Fairfax Co., VA",6636,4762,2012
+"Fairfax, VA",260835,173786,2012
 "Falls Church, VA",5006,2141,2012
 "Fauquier, VA",13891,20955,2012
 "Floyd, VA",2732,4671,2012
 "Fluvanna, VA",5885,6678,2012
-"Franklin, VA",2830,1496,2012
-"Franklin Co., VA",9082,16685,2012
+"Franklin Co., VA",2830,1496,2012
+"Franklin, VA",9082,16685,2012
 "Frederick, VA",12683,22851,2012
 "Fredericksburg, VA",7114,4054,2012
 "Galax, VA",900,1332,2012
@@ -2893,10 +2893,10 @@ county,dem_vote,rep_vote,year
 "Pulaski, VA",5287,8917,2012
 "Radford, VA",2732,2520,2012
 "Rappahannock, VA",1971,2307,2012
-"Richmond, VA",71037,19732,2012
-"Richmond Co., VA",1574,2160,2012
-"Roanoke, VA",22179,14116,2012
-"Roanoke Co., VA",19589,33344,2012
+"Richmond Co., VA",71037,19732,2012
+"Richmond, VA",1574,2160,2012
+"Roanoke Co., VA",22179,14116,2012
+"Roanoke, VA",19589,33344,2012
 "Rockbridge, VA",4087,5898,2012
 "Rockingham, VA",10059,24173,2012
 "Russell, VA",3716,8177,2012

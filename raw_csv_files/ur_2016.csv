@@ -1106,8 +1106,8 @@ Grant Parish,6.2,Louisiana,2016,22365,664.56,19.45,645.11
 Iberia Parish,8.3,Louisiana,2016,73273,1030.86,455.73,575.13
 Iberville Parish,5.9,Louisiana,2016,32920,652.84,34.2,618.64
 Jackson Parish,4.9,Louisiana,2016,15808,580.34,10.59,569.75
-Jefferson Davis Parish,5.3,Louisiana,2016,436523,642.41,335.89,306.52
-Jefferson Parish,4.7,Louisiana,2016,31413,658.58,6.26,652.31
+Jefferson Davis Parish,5.3,Louisiana,2016,31413,658.58,6.26,652.31
+Jefferson Parish,4.7,Louisiana,2016,436523,642.41,335.89,306.52
 La Salle Parish,5.3,Louisiana,2016,15052,270.29,0.46,269.83
 Lafayette Parish,5.5,Louisiana,2016,241398,1472.19,387.51,1084.68
 Lafourche Parish,5.8,Louisiana,2016,98305,662.36,38.54,623.83
@@ -2911,16 +2911,16 @@ Suffolk City,4.3,Virginia,2016,89273,429.07,29.05,400.02
 Surry County,4.1,Virginia,2016,6544,310.31,31.22,279.09
 Sussex County,5.9,Virginia,2016,11504,492.83,2.1,490.73
 Tazewell County,6.8,Virginia,2016,42150,519.89,0.15,519.74
-Virginia Beach City,3.8,Virginia,2016,39155,497.33,249.03,248.29
-Warren County,3.7,Virginia,2016,54214,216.32,2.63,213.7
-Washington County,4.2,Virginia,2016,17592,565.98,3.12,562.86
-Waynesboro City,3.9,Virginia,2016,39228,15.38,0.02,15.36
-Westmoreland County,4.3,Virginia,2016,29016,252.64,23.46,229.18
-Williamsburg City,5,Virginia,2016,67976,8.67,0.13,8.54
-Winchester City,3.7,Virginia,2016,452602,9.33,0,9.33
-Wise County,7.8,Virginia,2016,21887,405.22,1.18,404.04
-Wythe County,5.5,Virginia,2016,15214,464.62,1.37,463.24
-York County,3.6,Virginia,2016,27516,215.52,109.87,105.65
+Virginia Beach City,3.8,Virginia,2016,452602,9.33,0,9.33
+Warren County,3.7,Virginia,2016,39155,497.33,249.03,248.29
+Washington County,4.2,Virginia,2016,54214,216.32,2.63,213.7
+Waynesboro City,3.9,Virginia,2016,21887,405.22,1.18,404.04
+Westmoreland County,4.3,Virginia,2016,17592,565.98,3.12,562.86
+Williamsburg City,5,Virginia,2016,15214,464.62,1.37,463.24
+Winchester City,3.7,Virginia,2016,27516,215.52,109.87,105.65
+Wise County,7.8,Virginia,2016,39228,15.38,0.02,15.36
+Wythe County,5.5,Virginia,2016,29016,252.64,23.46,229.18
+York County,3.6,Virginia,2016,67976,8.67,0.13,8.54
 Adams County,7.4,Washington,2016,19238,1929.69,4.73,1924.96
 Asotin County,4.6,Washington,2016,22306,640.69,5.34,635.34
 Benton County,6.2,Washington,2016,193686,1760.12,57.03,1703.09
