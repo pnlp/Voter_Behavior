@@ -193,7 +193,7 @@ county,population 2000
 "San Benito, CA",53234.0
 "San Bernardino, CA",1709434.0
 "San Diego, CA",2813833.0
-"San Francisco, Co.ty and CCA",776733.0
+"San Francisco, Co.ty and Coun, CA",776733.0
 "San Joaquin, CA",563598.0
 "San Luis Obispo, CA",246681.0
 "San Mateo, CA",707161.0
@@ -221,7 +221,7 @@ county,population 2000
 "Baca, CO",4517.0
 "Bent, CO",5998.0
 "Boulder, CO",291288.0
-"Broomfield, Co.ty and CCO",
+"Broomfield, Co.ty and Coun, CO",
 "Chaffee, CO",16242.0
 "Cheyenne, CO",2231.0
 "Clear Creek, CO",9322.0
@@ -230,7 +230,7 @@ county,population 2000
 "Crowley, CO",5518.0
 "Custer, CO",3503.0
 "Delta, CO",27834.0
-"Denver, Co.ty and CCO",554636.0
+"Denver, Co.ty and Coun, CO",554636.0
 "Dolores, CO",1844.0
 "Douglas, CO",175766.0
 "Eagle, CO",41659.0
@@ -290,237 +290,237 @@ county,population 2000
 "New Castle, DE",500265.0
 "Sussex, DE",156638.0
 "District of Col, District of Columbia",572059.0
-"Alachua, FL",217955.0
-"Baker, FL",22259.0
-"Bay, FL",148217.0
-"Bradford, FL",26088.0
-"Brevard, FL",476230.0
-"Broward, FL",1623018.0
-"Calhoun, FL",13017.0
-"Charlotte, FL",141627.0
-Co.tFL,118085.0
-"Clay, FL",140814.0
-"Collier, FL",251377.0
-"Columbia, FL",56513.0
-"DeSoto, FL",32209.0
-"Dixie, FL",13827.0
-"Duval, FL",778879.0
-"Escambia, FL",294410.0
-"Flagler, FL",49832.0
-"Franklin, FL",11057.0
-"Gadsden, FL",45087.0
-"Gilchrist, FL",14437.0
-"Glades, FL",10576.0
-"Gulf, FL",13332.0
-"Hamilton, FL",13327.0
-"Hardee, FL",26938.0
-"Hendry, FL",36210.0
-"Hernando, FL",130802.0
-"Highlands, FL",87366.0
-"Hillsborough, FL",998948.0
-"Holmes, FL",18564.0
-"Indian River, FL",112947.0
-"Jackson, FL",46755.0
-"Jefferson, FL",12902.0
-"Lafayette, FL",7022.0
-"Lake, FL",210528.0
-"Lee, FL",440888.0
-"Leon, FL",239452.0
-"Levy, FL",34450.0
-"Liberty, FL",7021.0
-"Madison, FL",18733.0
-"Manatee, FL",264002.0
-"Marion, FL",258916.0
-"Martin, FL",126731.0
-"Miami-Dade, FL",2253362.0
-"Monroe, FL",79589.0
-"Nassau, FL",57663.0
-"Okaloosa, FL",170498.0
-"Okeechobee, FL",35910.0
-"Orange, FL",896344.0
-"Osceola, FL",172493.0
-"Palm Beach, FL",1131184.0
-"Pasco, FL",344765.0
-"Pinellas, FL",921482.0
-"Polk, FL",483924.0
-"Putnam, FL",70423.0
-"St. Johns, FL",123135.0
-"St. Lucie, FL",192695.0
-"Santa Rosa, FL",117743.0
-"Sarasota, FL",325957.0
-"Seminole, FL",365196.0
-"Sumter, FL",53345.0
-"Suwannee, FL",34844.0
-"Taylor, FL",19256.0
-"Union, FL",13442.0
-"Volusia, FL",443343.0
-"Wakulla, FL",22863.0
-"Walton, FL",40601.0
-"Washington, FL",20973.0
-"Appling, GA",17419.0
-"Atkinson, GA",7609.0
-"Bacon, GA",10103.0
-"Baker, GA",4074.0
-"Baldwin, GA",44700.0
-"Banks, GA",14422.0
-"Barrow, GA",46144.0
-"Bartow, GA",76019.0
-"Ben Hill, GA",17484.0
-"Berrien, GA",16235.0
-"Bibb, GA",153887.0
-"Bleckley, GA",11666.0
-"Brantley, GA",14629.0
-"Brooks, GA",16450.0
-"Bryan, GA",23417.0
-"Bulloch, GA",55983.0
-"Burke, GA",22243.0
-"Butts, GA",19522.0
-"Calhoun, GA",6320.0
-"Camden, GA",43664.0
-"Candler, GA",9577.0
-"Carroll, GA",87268.0
-"Catoosa, GA",53282.0
-"Charlton, GA",10282.0
-"Chatham, GA",232048.0
-"Chattahoochee, GA",14882.0
-"Chattooga, GA",25470.0
-"Cherokee, GA",141903.0
-"Clarke, GA",101489.0
-"Clay, GA",3357.0
-"Clayton, GA",236517.0
-"Clinch, GA",6878.0
-"Cobb, GA",607751.0
-"Coffee, GA",37413.0
-"Colquitt, GA",42053.0
-"Columbia, GA",89288.0
-"Cook, GA",15771.0
-"Coweta, GA",89215.0
-"Crawford, GA",12495.0
-"Crisp, GA",21996.0
-"Dade, GA",15154.0
-"Dawson, GA",15999.0
-"Decatur, GA",28240.0
-"DeKalb, GA",665865.0
-"Dodge, GA",19171.0
-"Dooly, GA",11525.0
-"Dougherty, GA",96065.0
-"Douglas, GA",92174.0
-"Early, GA",12354.0
-"Echols, GA",3754.0
-"Effingham, GA",37535.0
-"Elbert, GA",20511.0
-"Emanuel, GA",21837.0
-"Evans, GA",10495.0
-"Fannin, GA",19798.0
-"Fayette, GA",91263.0
-"Floyd, GA",90565.0
-"Forsyth, GA",98407.0
-"Franklin, GA",20285.0
-"Fulton, GA",816006.0
-"Gilmer, GA",23456.0
-"Glascock, GA",2556.0
-"Glynn, GA",67568.0
-"Gordon, GA",44104.0
-"Grady, GA",23659.0
-"Greene, GA",14406.0
-"Gwinnett, GA",588448.0
-"Habersham, GA",35902.0
-"Hall, GA",139277.0
-"Hancock, GA",10076.0
-"Haralson, GA",25690.0
-"Harris, GA",23695.0
-"Hart, GA",22997.0
-"Heard, GA",11012.0
-"Henry, GA",119341.0
-"Houston, GA",110765.0
-"Irwin, GA",9931.0
-"Jackson, GA",41589.0
-"Jasper, GA",11426.0
-"Jeff Davis, GA",12684.0
-"Jefferson, GA",17266.0
-"Jenkins, GA",8575.0
-"Johnson, GA",8560.0
-"Jones, GA",23639.0
-"Lamar, GA",15912.0
-"Lanier, GA",7241.0
-"Laurens, GA",44874.0
-"Lee, GA",24757.0
-"Liberty, GA",61610.0
-"Lincoln, GA",8348.0
-"Long, GA",10304.0
-"Lowndes, GA",92115.0
-"Lumpkin, GA",21016.0
-"McDuffie, GA",21231.0
-"McIntosh, GA",10847.0
-"Macon, GA",14074.0
-"Madison, GA",25730.0
-"Marion, GA",7144.0
-"Meriwether, GA",22534.0
-"Miller, GA",6383.0
-"Mitchell, GA",23932.0
-"Monroe, GA",21757.0
-"Montgomery, GA",8270.0
-"Morgan, GA",15457.0
-"Murray, GA",36506.0
-"Muscogee, GA",186291.0
-"Newton, GA",62001.0
-"Oconee, GA",26225.0
-"Oglethorpe, GA",12635.0
-"Paulding, GA",81678.0
-"Peach, GA",23668.0
-"Pickens, GA",22983.0
-"Pierce, GA",15636.0
-"Pike, GA",13688.0
-"Polk, GA",38127.0
-"Pulaski, GA",9588.0
-"Putnam, GA",18812.0
-"Quitman, GA",2598.0
-"Rabun, GA",15050.0
-"Randolph, GA",7791.0
-"Richmond, GA",199775.0
-"Rockdale, GA",70111.0
-"Schley, GA",3766.0
-"Screven, GA",15374.0
-"Seminole, GA",9369.0
-"Spalding, GA",58417.0
-"Stephens, GA",25435.0
-"Stewart, GA",5252.0
-"Sumter, GA",33200.0
-"Talbot, GA",6498.0
-"Taliaferro, GA",2077.0
-"Tattnall, GA",22305.0
-"Taylor, GA",8815.0
-"Telfair, GA",11794.0
-"Terrell, GA",10970.0
-"Thomas, GA",42737.0
-"Tift, GA",38407.0
-"Toombs, GA",26067.0
-"Towns, GA",9319.0
-"Treutlen, GA",6854.0
-"Troup, GA",58779.0
-"Turner, GA",9504.0
-"Twiggs, GA",10590.0
-"Union, GA",17289.0
-"Upson, GA",27597.0
-"Walker, GA",61053.0
-"Walton, GA",60687.0
-"Ware, GA",35483.0
-"Warren, GA",6336.0
-"Washington, GA",21176.0
-"Wayne, GA",26565.0
-"Webster, GA",2390.0
-"Wheeler, GA",6179.0
-"White, GA",19944.0
-"Whitfield, GA",83525.0
-"Wilcox, GA",8577.0
-"Wilkes, GA",10687.0
-"Wilkinson, GA",10220.0
-"Worth, GA",21967.0
-"Hawaii, HI",148677.0
-"Honolulu, Co.ty and CHI",876156.0
-"Kalawao, HI",147.0
-"Kauai, HI",58463.0
-"Maui, HI",128094.0
+"Alachua, Florida",217955.0
+"Baker, Florida",22259.0
+"Bay, Florida",148217.0
+"Bradford, Florida",26088.0
+"Brevard, Florida",476230.0
+"Broward, Florida",1623018.0
+"Calhoun, Florida",13017.0
+"Charlotte, Florida",141627.0
+"Co.trus, Florida",118085.0
+"Clay, Florida",140814.0
+"Collier, Florida",251377.0
+"Columbia, Florida",56513.0
+"DeSoto, Florida",32209.0
+"Dixie, Florida",13827.0
+"Duval, Florida",778879.0
+"Escambia, Florida",294410.0
+"Flagler, Florida",49832.0
+"Franklin, Florida",11057.0
+"Gadsden, Florida",45087.0
+"Gilchrist, Florida",14437.0
+"Glades, Florida",10576.0
+"Gulf, Florida",13332.0
+"Hamilton, Florida",13327.0
+"Hardee, Florida",26938.0
+"Hendry, Florida",36210.0
+"Hernando, Florida",130802.0
+"Highlands, Florida",87366.0
+"Hillsborough, Florida",998948.0
+"Holmes, Florida",18564.0
+"Indian River, Florida",112947.0
+"Jackson, Florida",46755.0
+"Jefferson, Florida",12902.0
+"Lafayette, Florida",7022.0
+"Lake, Florida",210528.0
+"Lee, Florida",440888.0
+"Leon, Florida",239452.0
+"Levy, Florida",34450.0
+"Liberty, Florida",7021.0
+"Madison, Florida",18733.0
+"Manatee, Florida",264002.0
+"Marion, Florida",258916.0
+"Martin, Florida",126731.0
+"Miami-Dade, Florida",2253362.0
+"Monroe, Florida",79589.0
+"Nassau, Florida",57663.0
+"Okaloosa, Florida",170498.0
+"Okeechobee, Florida",35910.0
+"Orange, Florida",896344.0
+"Osceola, Florida",172493.0
+"Palm Beach, Florida",1131184.0
+"Pasco, Florida",344765.0
+"Pinellas, Florida",921482.0
+"Polk, Florida",483924.0
+"Putnam, Florida",70423.0
+"St. Johns, Florida",123135.0
+"St. Lucie, Florida",192695.0
+"Santa Rosa, Florida",117743.0
+"Sarasota, Florida",325957.0
+"Seminole, Florida",365196.0
+"Sumter, Florida",53345.0
+"Suwannee, Florida",34844.0
+"Taylor, Florida",19256.0
+"Union, Florida",13442.0
+"Volusia, Florida",443343.0
+"Wakulla, Florida",22863.0
+"Walton, Florida",40601.0
+"Washington, Florida",20973.0
+"Appling, Georgia",17419.0
+"Atkinson, Georgia",7609.0
+"Bacon, Georgia",10103.0
+"Baker, Georgia",4074.0
+"Baldwin, Georgia",44700.0
+"Banks, Georgia",14422.0
+"Barrow, Georgia",46144.0
+"Bartow, Georgia",76019.0
+"Ben Hill, Georgia",17484.0
+"Berrien, Georgia",16235.0
+"Bibb, Georgia",153887.0
+"Bleckley, Georgia",11666.0
+"Brantley, Georgia",14629.0
+"Brooks, Georgia",16450.0
+"Bryan, Georgia",23417.0
+"Bulloch, Georgia",55983.0
+"Burke, Georgia",22243.0
+"Butts, Georgia",19522.0
+"Calhoun, Georgia",6320.0
+"Camden, Georgia",43664.0
+"Candler, Georgia",9577.0
+"Carroll, Georgia",87268.0
+"Catoosa, Georgia",53282.0
+"Charlton, Georgia",10282.0
+"Chatham, Georgia",232048.0
+"Chattahoochee, Georgia",14882.0
+"Chattooga, Georgia",25470.0
+"Cherokee, Georgia",141903.0
+"Clarke, Georgia",101489.0
+"Clay, Georgia",3357.0
+"Clayton, Georgia",236517.0
+"Clinch, Georgia",6878.0
+"Cobb, Georgia",607751.0
+"Coffee, Georgia",37413.0
+"Colquitt, Georgia",42053.0
+"Columbia, Georgia",89288.0
+"Cook, Georgia",15771.0
+"Coweta, Georgia",89215.0
+"Crawford, Georgia",12495.0
+"Crisp, Georgia",21996.0
+"Dade, Georgia",15154.0
+"Dawson, Georgia",15999.0
+"Decatur, Georgia",28240.0
+"DeKalb, Georgia",665865.0
+"Dodge, Georgia",19171.0
+"Dooly, Georgia",11525.0
+"Dougherty, Georgia",96065.0
+"Douglas, Georgia",92174.0
+"Early, Georgia",12354.0
+"Echols, Georgia",3754.0
+"Effingham, Georgia",37535.0
+"Elbert, Georgia",20511.0
+"Emanuel, Georgia",21837.0
+"Evans, Georgia",10495.0
+"Fannin, Georgia",19798.0
+"Fayette, Georgia",91263.0
+"Floyd, Georgia",90565.0
+"Forsyth, Georgia",98407.0
+"Franklin, Georgia",20285.0
+"Fulton, Georgia",816006.0
+"Gilmer, Georgia",23456.0
+"Glascock, Georgia",2556.0
+"Glynn, Georgia",67568.0
+"Gordon, Georgia",44104.0
+"Grady, Georgia",23659.0
+"Greene, Georgia",14406.0
+"Gwinnett, Georgia",588448.0
+"Habersham, Georgia",35902.0
+"Hall, Georgia",139277.0
+"Hancock, Georgia",10076.0
+"Haralson, Georgia",25690.0
+"Harris, Georgia",23695.0
+"Hart, Georgia",22997.0
+"Heard, Georgia",11012.0
+"Henry, Georgia",119341.0
+"Houston, Georgia",110765.0
+"Irwin, Georgia",9931.0
+"Jackson, Georgia",41589.0
+"Jasper, Georgia",11426.0
+"Jeff Davis, Georgia",12684.0
+"Jefferson, Georgia",17266.0
+"Jenkins, Georgia",8575.0
+"Johnson, Georgia",8560.0
+"Jones, Georgia",23639.0
+"Lamar, Georgia",15912.0
+"Lanier, Georgia",7241.0
+"Laurens, Georgia",44874.0
+"Lee, Georgia",24757.0
+"Liberty, Georgia",61610.0
+"Lincoln, Georgia",8348.0
+"Long, Georgia",10304.0
+"Lowndes, Georgia",92115.0
+"Lumpkin, Georgia",21016.0
+"McDuffie, Georgia",21231.0
+"McIntosh, Georgia",10847.0
+"Macon, Georgia",14074.0
+"Madison, Georgia",25730.0
+"Marion, Georgia",7144.0
+"Meriwether, Georgia",22534.0
+"Miller, Georgia",6383.0
+"Mitchell, Georgia",23932.0
+"Monroe, Georgia",21757.0
+"Montgomery, Georgia",8270.0
+"Morgan, Georgia",15457.0
+"Murray, Georgia",36506.0
+"Muscogee, Georgia",186291.0
+"Newton, Georgia",62001.0
+"Oconee, Georgia",26225.0
+"Oglethorpe, Georgia",12635.0
+"Paulding, Georgia",81678.0
+"Peach, Georgia",23668.0
+"Pickens, Georgia",22983.0
+"Pierce, Georgia",15636.0
+"Pike, Georgia",13688.0
+"Polk, Georgia",38127.0
+"Pulaski, Georgia",9588.0
+"Putnam, Georgia",18812.0
+"Quitman, Georgia",2598.0
+"Rabun, Georgia",15050.0
+"Randolph, Georgia",7791.0
+"Richmond, Georgia",199775.0
+"Rockdale, Georgia",70111.0
+"Schley, Georgia",3766.0
+"Screven, Georgia",15374.0
+"Seminole, Georgia",9369.0
+"Spalding, Georgia",58417.0
+"Stephens, Georgia",25435.0
+"Stewart, Georgia",5252.0
+"Sumter, Georgia",33200.0
+"Talbot, Georgia",6498.0
+"Taliaferro, Georgia",2077.0
+"Tattnall, Georgia",22305.0
+"Taylor, Georgia",8815.0
+"Telfair, Georgia",11794.0
+"Terrell, Georgia",10970.0
+"Thomas, Georgia",42737.0
+"Tift, Georgia",38407.0
+"Toombs, Georgia",26067.0
+"Towns, Georgia",9319.0
+"Treutlen, Georgia",6854.0
+"Troup, Georgia",58779.0
+"Turner, Georgia",9504.0
+"Twiggs, Georgia",10590.0
+"Union, Georgia",17289.0
+"Upson, Georgia",27597.0
+"Walker, Georgia",61053.0
+"Walton, Georgia",60687.0
+"Ware, Georgia",35483.0
+"Warren, Georgia",6336.0
+"Washington, Georgia",21176.0
+"Wayne, Georgia",26565.0
+"Webster, Georgia",2390.0
+"Wheeler, Georgia",6179.0
+"White, Georgia",19944.0
+"Whitfield, Georgia",83525.0
+"Wilcox, Georgia",8577.0
+"Wilkes, Georgia",10687.0
+"Wilkinson, Georgia",10220.0
+"Worth, Georgia",21967.0
+"Hawaii, Hawai_i",148677.0
+"Honolulu, Co.ty and Coun, Hawai_i",876156.0
+"Kalawao, Hawai_i",147.0
+"Kauai, Hawai_i",58463.0
+"Maui, Hawai_i",128094.0
 "Ada, ID",300904.0
 "Adams, ID",3476.0
 "Bannock, ID",75565.0
@@ -1554,7 +1554,7 @@ Co.tFL,118085.0
 "St. Clair, MO",9652.0
 "St. Francois, MO",55641.0
 "St. Louis, MO",1016315.0
-"St. Louis, MO",348189.0
+"St. Louis, Co., MO",348189.0
 "Ste. Genevieve, MO",17842.0
 "Stoddard, MO",29705.0
 "Stone, MO",28658.0
@@ -1733,7 +1733,7 @@ Co.tFL,118085.0
 "Storey, NV",3399.0
 "Washoe, NV",339486.0
 "White Pine, NV",9181.0
-"Carson Co.ty, Consolidated MunicipNV",52457.0
+"Carson Co.ty, Consolidated Municipali, NV",52457.0
 "Belknap, NH",56325.0
 "Carroll, NH",43666.0
 "Cheshire, NH",73825.0
@@ -1768,11 +1768,11 @@ Co.tFL,118085.0
 "Bernalillo, NM",556678.0
 "Catron, NM",3543.0
 "Chaves, NM",61382.0
-Co.bNM,25595.0
+"Co.bola, NM",25595.0
 "Colfax, NM",14189.0
 "Curry, NM",45044.0
 "De Baca, NM",2240.0
-"DoÐa Ana, NM",174682.0
+"Do_a Ana, NM",174682.0
 "Eddy, NM",51658.0
 "Grant, NM",31002.0
 "Guadalupe, NM",4680.0
@@ -2113,7 +2113,7 @@ Co.bNM,25595.0
 "Carter, OK",45621.0
 "Cherokee, OK",42521.0
 "Choctaw, OK",15342.0
-Co.marOK,3148.0
+"Co.marron, OK",3148.0
 "Cleveland, OK",208016.0
 "Coal, OK",6031.0
 "Comanche, OK",114996.0
@@ -2808,7 +2808,7 @@ Co.marOK,3148.0
 "Campbell, VA",51078.0
 "Caroline, VA",22121.0
 "Carroll, VA",29245.0
-Charles CoVA,6926.0
+"Charles Co.ty, VA",6926.0
 "Charlotte, VA",12472.0
 "Chesterfield, VA",259903.0
 "Clarke, VA",12652.0
@@ -2836,7 +2836,7 @@ Charles CoVA,6926.0
 "Henry, VA",57930.0
 "Highland, VA",2536.0
 "Isle of Wight, VA",29728.0
-James CoVA,48102.0
+"James Co.ty, VA",48102.0
 "King and Queen, VA",6630.0
 "King George, VA",16803.0
 "King William, VA",13146.0
@@ -2885,45 +2885,45 @@ James CoVA,48102.0
 "Wise, VA",40123.0
 "Wythe, VA",27599.0
 "York, VA",56297.0
-"Alexandria, VA",128283.0
-"Bedford, VA",6299.0
-"Bristol, VA",17367.0
-"Buena Vista, VA",6349.0
-"Charlottesville, VA",45049.0
-"Chesapeake, VA",199184.0
-"Colonial Heights, VA",16897.0
-"Covington, VA",6303.0
-"Danville, VA",48411.0
-"Emporia, VA",5665.0
+"Alexandria, Co., VA",128283.0
+"Bedford, Co., VA",6299.0
+"Bristol, Co., VA",17367.0
+"Buena Vista, Co., VA",6349.0
+"Charlottesville, Co., VA",45049.0
+"Chesapeake, Co., VA",199184.0
+"Colonial Heights, Co., VA",16897.0
+"Covington, Co., VA",6303.0
+"Danville, Co., VA",48411.0
+"Emporia, Co., VA",5665.0
 "Fairfax, Co., VA",21498.0
-"Falls Church, VA",10377.0
+"Falls Church, Co., VA",10377.0
 "Franklin, Co., VA",8346.0
-"Fredericksburg, VA",19279.0
-"Galax, VA",6837.0
-"Hampton, VA",146437.0
-"Harrisonburg, VA",40468.0
-"Hopewell, VA",22354.0
-"Lexington, VA",6867.0
-"Lynchburg, VA",65269.0
-"Manassas, VA",35135.0
-"Manassas Park, VA",10290.0
-"Martinsville, VA",15416.0
-"Newport News, VA",180150.0
-"Norfolk, VA",234403.0
-"Norton, VA",3904.0
-"Petersburg, VA",33740.0
-"Poquoson, VA",11566.0
-"Portsmouth, VA",100565.0
-"Radford, VA",15859.0
+"Fredericksburg, Co., VA",19279.0
+"Galax, Co., VA",6837.0
+"Hampton, Co., VA",146437.0
+"Harrisonburg, Co., VA",40468.0
+"Hopewell, Co., VA",22354.0
+"Lexington, Co., VA",6867.0
+"Lynchburg, Co., VA",65269.0
+"Manassas, Co., VA",35135.0
+"Manassas Park, Co., VA",10290.0
+"Martinsville, Co., VA",15416.0
+"Newport News, Co., VA",180150.0
+"Norfolk, Co., VA",234403.0
+"Norton, Co., VA",3904.0
+"Petersburg, Co., VA",33740.0
+"Poquoson, Co., VA",11566.0
+"Portsmouth, Co., VA",100565.0
+"Radford, Co., VA",15859.0
 "Richmond, Co., VA",197790.0
 "Roanoke, Co., VA",94911.0
-"Salem, VA",24747.0
-"Staunton, VA",23853.0
-"Suffolk, VA",63677.0
-"Virginia Beach, VA",425257.0
-"Waynesboro, VA",19520.0
-"Williamsburg, VA",11998.0
-"Winchester, VA",23585.0
+"Salem, Co., VA",24747.0
+"Staunton, Co., VA",23853.0
+"Suffolk, Co., VA",63677.0
+"Virginia Beach, Co., VA",425257.0
+"Waynesboro, Co., VA",19520.0
+"Williamsburg, Co., VA",11998.0
+"Winchester, Co., VA",23585.0
 "Adams, WA",16428.0
 "Asotin, WA",20551.0
 "Benton, WA",142475.0
